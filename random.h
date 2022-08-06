@@ -16,7 +16,7 @@
 template<typename Type>
 class Random {
 public:
-    static_assert(std::is_arithmetic<Type>::value, "Template argument data must be a arithmetic type");
+    static_assert(std::is_arithmetic<Type>::value, "Template argument dat a must be a arithmetic type");
 
     using IntType = typename std::conditional<(std::is_integral<Type>::value && sizeof(Type) < 2),
             short,
