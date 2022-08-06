@@ -397,7 +397,7 @@ public:
     }
 
     void description() override {
-        std::cout << "Tit for Tat :                                                        \n"
+        std::cout << "Joss :                                                        \n"
                      "    1. 처음에는 협력한다.                                               \n"
                      "    2. 이후에는 상대방이 바로 직전에 했던 판단(행동)을 똑같이 따라해 되갚아 주는데, 상대가 협력한 다음 10%의 확률로 배반을 한다.\n";
     }
@@ -438,15 +438,53 @@ public:
     }
 };
 
-int rewards[2][2] = {
+/**
+ * <b> Pavlov </b>
+ *
+ * <hr>
+ * 1. 처음에는 협력을 한다.
+ * <br> 2. 이후에는 이전에 상대방과 내가 같은 선택을 했으면 협력, 아니라면 배반을 한다.
+ * <hr>
+ *
+ * @author dkim110807
+ */
+class Pavlov : public Strategy {
+private:
+    // 내가 선택한 선택들
+    std::vector<Choice::ChoiceRef> mchoices;
+
+public:
+    Pavlov() = default;
+
+    std::string name() override {
+        return "Pavlov";
+    }
+
+    void description() override {
+        std::cout << "Pavlov : \n"
+                     "    1. 처음에는 협력을 한다.                                              \n"
+                     "    2. 이후에는 이전에 상대방과 내가 같은 선택을 했으면 협력, 아니라면 배반을 한다.\n";
+    }
+
+    Choice::ChoiceRef choose() override {
+        if (mchoices.empty()) mchoices.push_back(Choice::C);
+        else mchoices.push_back(mchoices.back() == choices.back() ? Choice::C : Choice::D);
+        return mchoices.back();
+    }
+};
+
+Reward::RewardRef rewards[2][2] = {
         {Reward::P, Reward::T},
         {Reward::S, Reward::R}
 };
 
 std::pair<int, int> game(Strategy *A, Strategy *B) {
     int score[] = {0, 0};
+
+    std::cout << "Player A : " << A->name() << ", Player B : " << B->name() << "\n";
+
     for (int i = 0; i < 50; i++) {
-        auto a = A->choose(), b = B->choose();
+        Choice::ChoiceRef a = A->choose(), b = B->choose();
 
         std::cout << "A : " << a << ", B : " << b << "\n";
 
@@ -469,5 +507,5 @@ std::pair<int, int> game(Strategy *A, Strategy *B) {
 }
 
 int main() {
-    game(new Friedman(), new Joss());
+    game(new TitForTwoTat(), new Tester());
 }
