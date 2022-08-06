@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 The Evolution of Cooperation
 ============================
 ****
