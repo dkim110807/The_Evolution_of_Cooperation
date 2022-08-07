@@ -606,6 +606,15 @@ public:
     }
 };
 
+/**
+ * <b> Per Nasty </b>
+ *
+ * <hr>
+ * 1. 배반, 배반, 협력을 반복한다.
+ * <hr>
+ *
+ * @author dkim110807
+ */
 class PerNasty : public Strategy {
 public:
     PerNasty() = default;
@@ -615,7 +624,12 @@ public:
     }
 
     std::string description() override {
+        return "- 배반, 배반, 협력을 반복한다. \n";
+    }
 
+    Choice::ChoiceRef choose() override {
+        if (choices.size() % 3 == 2) return Choice::C;
+        return Choice::D;
     }
 };
 
