@@ -519,7 +519,7 @@ public:
 
     std::string description() override {
         return "- 처음에는 협력한다. \n"
-               "- 이후에는 상대방이 배신한 횟수가 더 많으면 배반하고, 아니라면 협력한다.";
+               "- 이후에는 상대방이 배신한 횟수가 더 많으면 배반하고, 아니라면 협력한다.\n";
     }
 
     Choice::ChoiceRef choose() override {
@@ -566,7 +566,7 @@ public:
         return "- 처음 두번은 협력한다. \n"
                "- 3번째 부터 2턴 이후 배반이 있다면 배반, 연속 두 번 협력하면 다시 협력한다. \n"
                "- 이후 또 배반하면, 3턴 연속 협력이어야 협력한다. \n"
-               "- 이후 또 배반하면, 계속 배반한다.";
+               "- 이후 또 배반하면, 계속 배반한다.\n";
     }
 
     Choice::ChoiceRef choose() override {
@@ -722,36 +722,75 @@ Reward::RewardRef rewards[2][2] = {
         {Reward::S, Reward::R}
 };
 
-std::pair<int, int> game(Strategy *A, Strategy *B) {
+std::tuple<int, int> game(Strategy *A, Strategy *B, int iter = 50) {
     int score[] = {0, 0};
 
     std::cout << "Player A : " << A->name() << ", Player B : " << B->name() << "\n";
 
-    for (int i = 0; i < 50; i++) {
+    auto print = [&](int x) {
+        if (x == 0) return "D";
+        return "C";
+    };
+
+    for (int i = 0; i < iter; i++) {
         Choice::ChoiceRef a = A->choose(), b = B->choose();
 
-        std::cout << "A : " << a << ", B : " << b << "\n";
+        std::cout << "A : " << print(a) << ", B : " << print(b) << "\n";
 
         score[0] += rewards[a][b], score[1] += rewards[b][a];
 
         A->add_choice(b), B->add_choice(a);
     }
 
-    std::cout << "Score : " << score[0] << " " << score[1] << "\n";
-    if (score[0] > score[1]) {
-        std::cout << "A wins : ";
-        A->description();
-    } else if (score[0] == score[1]) {
-        std::cout << "Draw";
-    } else {
-        std::cout << "B wins : ";
-        B->description();
-    }
+    std::cout << "A : " << score[0] << ", B : " << score[1] << "\n";
+    std::cout << "------------------------------------------------\n";
+
     return {score[0], score[1]};
 }
 
-int main() {
-    Strategy *list[] = {new TitForTat(), new Random55(), new Random91(), new Random19()};
+void round_robin(const std::vector<Strategy *> &list) {
+    std::ifstream data("simulate/robin/data.txt");
+    int num = 0;
+    while (!data.eof()) data >> num;
+    std::cout << "Simulation No." << num;
+    std::ofstream("simulate/robin/data.txt") << num + 1;
 
-    game(new PerNasty(), new Prober());
+    std::ofstream file("simulate/robin/" + std::to_string(num) + ".txt");
+    freopen(("simulate/robin/" + std::to_string(num) + ".txt").c_str(), "w", stdout);
+
+    for (auto &player: list) {
+        std::cout << player->name() << "\n" << player->description() << "\n";
+    }
+
+    std::vector<std::pair<int, Strategy *>> scores(list.size());
+    for (int i = 0; i < list.size(); i++) scores[i] = {0, list[i]};
+
+    for (int i = 0; i < list.size(); i++) {
+        for (int j = i + 1; j < list.size(); j++) {
+            auto[x, y] = game(list[i], list[j]);
+            scores[i].first += x, scores[j].first += y;
+        }
+    }
+
+    for (int i = 0; i < list.size(); i++) scores[i].first /= int(list.size() - 1);
+
+    std::sort(scores.begin(), scores.end(), [&](const std::pair<int, Strategy *> &a, std::pair<int, Strategy *> b) {
+        return a.first > b.first;
+    });
+
+    for (int i = 0; i < list.size(); i++) {
+        std::cout << i + 1 << ". " << scores[i].second->name() << " " << scores[i].first << "\n";
+    }
+}
+
+int main() {
+    Strategy *strategies[] = {new TitForTat(), new Random55(), new Random91(), new Random19(), new TitForTwoTat(),
+                              new Friedman(), new AllD(), new AllC(), new Tester(), new Joss(), new Alternative(),
+                              new Pavlov(), new Mistrust(), new SoftMajor(), new HardForgiver(), new Prober(),
+                              new PerNasty(), new Downing(), new ModifiedDowning()};
+
+    std::vector<Strategy *> list;
+    for (auto &x: strategies) list.push_back(x);
+
+    round_robin(list);
 }
