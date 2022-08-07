@@ -575,6 +575,16 @@ public:
     }
 };
 
+/**
+ * <b> Prober </b>
+ *
+ * <hr>
+ * 1. 협력, 배반, 배반으로 시작한다.
+ * <br> 2. 2~3턴에서 계속 상대가 협력시 계속 배반하고, 아니라면 Tit for Tat으로 나머지 턴을 플레이한다.
+ * <hr>
+ *
+ * @author dkim110807
+ */
 class Prober : public Strategy {
 public:
     Prober() = default;
