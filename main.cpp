@@ -86,7 +86,7 @@ public:
 
     virtual std::string name() = 0;
 
-    virtual void description() = 0;
+    virtual std::string description() = 0;
 
     virtual Choice::ChoiceRef choose() = 0;
 
@@ -113,10 +113,9 @@ public:
         return "Tit for Tat";
     }
 
-    void description() override {
-        std::cout << "Tit for Tat :                                                        \n"
-                     "    1. 처음에는 협력한다.                                               \n"
-                     "    2. 이후에는 상대방이 바로 직전에 했던 판단(행동)을 똑같이 따라해 되갚아 준다.\n";
+    std::string description() override {
+        return "- 처음에는 협력한다.                                               \n"
+               "- 이후에는 상대방이 바로 직전에 했던 판단(행동)을 똑같이 따라해 되갚아 준다.\n";
     }
 
     Choice::ChoiceRef choose() override {
@@ -146,8 +145,8 @@ public:
         return "Random (50%, 50%)";
     }
 
-    void description() override {
-        std::cout << "Random (50%, 50%) : 50%의 확률로 배반하고, 50%의 확률로 협력한다.\n";
+    std::string description() override {
+        return "- 50%의 확률로 배반하고, 50%의 확률로 협력한다.\n";
     }
 
     Choice::ChoiceRef choose() override {
@@ -177,8 +176,8 @@ public:
         return "Random (90%, 10%)";
     }
 
-    void description() override {
-        std::cout << "Random (90%, 10%) : 90%의 확률로 배반하고, 10%의 확률로 협력한다.\n";
+    std::string description() override {
+        return "- 90%의 확률로 배반하고, 10%의 확률로 협력한다.\n";
     }
 
     Choice::ChoiceRef choose() override {
@@ -208,8 +207,8 @@ public:
         return "Random (10%, 90%)";
     }
 
-    void description() override {
-        std::cout << "Random (10%, 90%) : 10%의 확률로 배반하고, 90%의 확률로 협력한다.\n";
+    std::string description() override {
+        return "- 10%의 확률로 배반하고, 90%의 확률로 협력한다.\n";
     }
 
     Choice::ChoiceRef choose() override {
@@ -235,10 +234,9 @@ public:
         return "Tit for 2 Tat";
     }
 
-    void description() override {
-        std::cout << "Tit for 2 Tat :                                                      \n"
-                     "    1. 처음에는 협력한다.                                               \n"
-                     "    2. 상대방이 연속으로 두 번 배반했다면 배반하고, 이외의 모든 경우는 협력한다. \n";
+    std::string description() override {
+        return "- 처음에는 협력한다.                                               \n"
+               "- 상대방이 연속으로 두 번 배반했다면 배반하고, 이외의 모든 경우는 협력한다. \n";
     }
 
     Choice::ChoiceRef choose() override {
@@ -271,10 +269,9 @@ public:
         return "Friedman";
     }
 
-    void description() override {
-        std::cout << "Friedman :                                                          \n"
-                     "    1. 첫게임은 협력한다.                                              \n"
-                     "    2. 이후에는 상대가 협력하면 협력하고, 배반하면 이후 모든 게임에서 배반한다. \n";
+    std::string description() override {
+        return "- 첫게임은 협력한다.                                              \n"
+               "- 이후에는 상대가 협력하면 협력하고, 배반하면 이후 모든 게임에서 배반한다. \n";
     }
 
     Choice::ChoiceRef choose() override {
@@ -301,8 +298,8 @@ public:
         return "All D";
     }
 
-    void description() override {
-        std::cout << "All D : 상대의 선택과 관계 없이 항상 배반한다.\n";
+    std::string description() override {
+        return "- 상대의 선택과 관계 없이 항상 배반한다.\n";
     }
 
     Choice::ChoiceRef choose() override {
@@ -327,8 +324,8 @@ public:
         return "All C";
     }
 
-    void description() override {
-        std::cout << "All C : 상대의 선택과 관계 없이 항상 협력한다.\n";
+    std::string description() override {
+        return "- 상대의 선택과 관계 없이 항상 협력한다.\n";
     }
 
     Choice::ChoiceRef choose() override {
@@ -356,11 +353,10 @@ public:
         return "Tester";
     }
 
-    void description() override {
-        std::cout << "Tester : \n"
-                     "    1. 첫번째와 두번째 게임에서 무조건 배반한다.\n"
-                     "    2. 다음 게임에서 상대가 배반할 경우 팃포택으로 가고, 상대가 협력할 경우 3, 4번째 게임에서는 협력을 하고 이후 "
-                     "부터 협력과 배반을 번갈아 한다.\n";
+    std::string description() override {
+        return "- 첫번째와 두번째 게임에서 무조건 배반한다.\n"
+               "- 다음 게임에서 상대가 배반할 경우 팃포택으로 가고, 상대가 협력할 경우 3, 4번째 게임에서는 협력을 하고 이후 부터 협력과 배반"
+               "을 번갈아 한다.\n";
     }
 
     Choice::ChoiceRef choose() override {
@@ -396,10 +392,9 @@ public:
         return "Joss";
     }
 
-    void description() override {
-        std::cout << "Joss :                                                        \n"
-                     "    1. 처음에는 협력한다.                                               \n"
-                     "    2. 이후에는 상대방이 바로 직전에 했던 판단(행동)을 똑같이 따라해 되갚아 주는데, 상대가 협력한 다음 10%의 확률로 배반을 한다.\n";
+    std::string description() override {
+        return "- 처음에는 협력한다.                                               \n"
+               "- 이후에는 상대방이 바로 직전에 했던 판단(행동)을 똑같이 따라해 되갚아 주는데, 상대가 협력한 다음 10%의 확률로 배반을 한다.\n";
     }
 
     Choice::ChoiceRef choose() override {
@@ -428,8 +423,8 @@ public:
         return "Alternative";
     }
 
-    void description() override {
-        std::cout << "Alternative : 처음에는 협력을 하고, 이후에는 배반과 협력을 한다.\n";
+    std::string description() override {
+        return "- 처음에는 협력을 하고, 이후에는 배반과 협력을 한다.\n";
     }
 
     Choice::ChoiceRef choose() override {
@@ -460,16 +455,77 @@ public:
         return "Pavlov";
     }
 
-    void description() override {
-        std::cout << "Pavlov : \n"
-                     "    1. 처음에는 협력을 한다.                                              \n"
-                     "    2. 이후에는 이전에 상대방과 내가 같은 선택을 했으면 협력, 아니라면 배반을 한다.\n";
+    std::string description() override {
+        return "- 처음에는 협력을 한다.                                              \n"
+               "- 이후에는 이전에 상대방과 내가 같은 선택을 했으면 협력, 아니라면 배반을 한다.\n";
     }
 
     Choice::ChoiceRef choose() override {
         if (mchoices.empty()) mchoices.push_back(Choice::C);
         else mchoices.push_back(mchoices.back() == choices.back() ? Choice::C : Choice::D);
         return mchoices.back();
+    }
+};
+
+/**
+ * <b> Mistrust </b>
+ *
+ * <hr>
+ * 1. 처음에는 배반을 한다.
+ * <br> 2. 이후에는 상대방이 전에 했던 행동을 따라한다.
+ * <hr>
+ *
+ * @author dkim110807
+ */
+class Mistrust : public Strategy {
+public:
+    Mistrust() = default;
+
+    std::string name() override {
+        return "Mistrust";
+    }
+
+    std::string description() override {
+        return "- 처음에는 배반한다.     \n"
+               "- 이후에는 상대방이 전에 했던 행동을 따라한다. \n";
+    }
+
+    Choice::ChoiceRef choose() override {
+        if (choices.empty()) return Choice::D;
+        return choices.back();
+    }
+};
+
+/**
+ * <b> Soft Major </b>
+ *
+ * <hr>
+ * 1. 처음에는 협력을 한다.
+ * <br> 2. 이후에는 상대방이 배신한 횟수가 더 많으면 배반하고, 아니라면 협력한다.
+ * <hr>
+ *
+ * @author dkim110807
+ */
+class SoftMajor : public Strategy {
+private:
+    int betray = 0;
+public:
+    SoftMajor() = default;
+
+    std::string name() override {
+        return "Soft Major";
+    }
+
+    std::string description() override {
+        return "- 처음에는 협력한다. \n"
+               "- 이후에는 상대방이 배신한 횟수가 더 많으면 배반하고, 아니라면 협력한다.";
+    }
+
+    Choice::ChoiceRef choose() override {
+        if (choices.empty()) return Choice::C;
+        betray += choices.back() == Choice::D;
+        if (choices.size() / 2 < betray) return Choice::D;
+        return Choice::C;
     }
 };
 
@@ -507,5 +563,5 @@ std::pair<int, int> game(Strategy *A, Strategy *B) {
 }
 
 int main() {
-    game(new TitForTwoTat(), new Tester());
+    game(new Mistrust(), new Tester());
 }
