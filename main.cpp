@@ -669,5 +669,5 @@ std::pair<int, int> game(Strategy *A, Strategy *B) {
 int main() {
     Strategy *list[] = {new TitForTat(), new Random55(), new Random91(), new Random19()};
 
-    game(new AllC(), new Prober());
+    game(new PerNasty(), new Prober());
 }
