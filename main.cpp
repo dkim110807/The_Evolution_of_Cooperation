@@ -90,6 +90,8 @@ public:
 
     virtual Choice::ChoiceRef choose() = 0;
 
+    virtual void clear() = 0;
+
     void add_choice(Choice::ChoiceRef choice) {
         choices.push_back(choice);
     }
@@ -120,6 +122,10 @@ public:
 
     Choice::ChoiceRef choose() override {
         return choices.empty() ? Choice::C : choices.back();
+    }
+
+    void clear() override {
+        choices.clear();
     }
 };
 
@@ -152,6 +158,10 @@ public:
     Choice::ChoiceRef choose() override {
         return generator() <= 50 ? Choice::C : Choice::D;
     }
+
+    void clear() override {
+        choices.clear();
+    };
 };
 
 /**
@@ -183,6 +193,10 @@ public:
     Choice::ChoiceRef choose() override {
         return generator() <= 10 ? Choice::C : Choice::D;
     }
+
+    void clear() override {
+        choices.clear();
+    };
 };
 
 /**
@@ -214,6 +228,10 @@ public:
     Choice::ChoiceRef choose() override {
         return generator() <= 90 ? Choice::C : Choice::D;
     }
+
+    void clear() override {
+        choices.clear();
+    };
 };
 
 /**
@@ -246,6 +264,10 @@ public:
         if (choices[k - 1] == choices[k - 2] && choices[k - 1] == Choice::D) return Choice::D;
         return Choice::C;
     }
+
+    void clear() override {
+        choices.clear();
+    };
 };
 
 /**
@@ -279,6 +301,11 @@ public:
         if (choices.back() == Choice::D) betrayed = true;
         return betrayed ? Choice::D : Choice::C;
     }
+
+    void clear() override {
+        choices.clear();
+        betrayed = false;
+    };
 };
 
 /**
@@ -305,6 +332,10 @@ public:
     Choice::ChoiceRef choose() override {
         return Choice::D;
     }
+
+    void clear() override {
+        choices.clear();
+    };
 };
 
 /**
@@ -331,6 +362,10 @@ public:
     Choice::ChoiceRef choose() override {
         return Choice::C;
     }
+
+    void clear() override {
+        choices.clear();
+    };
 };
 
 /**
@@ -367,6 +402,11 @@ public:
         else if (choices.size() <= 3) return Choice::C;
         else return choices.size() % 2 ? Choice::D : Choice::C;
     }
+
+    void clear() override {
+        choices.clear();
+        tit = false;
+    };
 };
 
 /**
@@ -404,6 +444,10 @@ public:
         }
         return Choice::D;
     }
+
+    void clear() override {
+        choices.clear();
+    };
 };
 
 /**
@@ -431,6 +475,10 @@ public:
         if (choices.size() % 2 == 0) return Choice::C;
         return Choice::D;
     }
+
+    void clear() override {
+        choices.clear();
+    };
 };
 
 /**
@@ -465,6 +513,11 @@ public:
         else mchoices.push_back(mchoices.back() == choices.back() ? Choice::C : Choice::D);
         return mchoices.back();
     }
+
+    void clear() override {
+        choices.clear();
+        mchoices.clear();
+    };
 };
 
 /**
@@ -494,6 +547,10 @@ public:
         if (choices.empty()) return Choice::D;
         return choices.back();
     }
+
+    void clear() override {
+        choices.clear();
+    };
 };
 
 /**
@@ -528,6 +585,11 @@ public:
         if (choices.size() / 2 < betray) return Choice::D;
         return Choice::C;
     }
+
+    void clear() override {
+        choices.clear();
+        betray = 0;
+    };
 };
 
 /**
@@ -573,6 +635,10 @@ public:
         if (choices.size() <= 1 || forgive()) return Choice::C;
         return Choice::D;
     }
+
+    void clear() override {
+        choices.clear();
+    };
 };
 
 /**
@@ -604,6 +670,10 @@ public:
         if (choices[1] == choices[2] && choices[1] == Choice::C) return Choice::D;
         return choices.back();
     }
+
+    void clear() override {
+        choices.clear();
+    };
 };
 
 /**
@@ -631,6 +701,10 @@ public:
         if (choices.size() % 3 == 2) return Choice::C;
         return Choice::D;
     }
+
+    void clear() override {
+        choices.clear();
+    };
 };
 
 /**
@@ -673,6 +747,11 @@ public:
         if (generator() >= p) return Choice::C;
         return Choice::D;
     }
+
+    void clear() override {
+        choices.clear();
+        p = 500, betray = 0;
+    };
 };
 
 /**
@@ -715,6 +794,11 @@ public:
         if (generator() >= p) return Choice::C;
         return Choice::D;
     }
+
+    void clear() override {
+        choices.clear();
+        p = 500, betray = 0;
+    };
 };
 
 Reward::RewardRef rewards[2][2] = {
@@ -722,9 +806,10 @@ Reward::RewardRef rewards[2][2] = {
         {Reward::S, Reward::R}
 };
 
-std::tuple<int, int> game(Strategy *A, Strategy *B, int iter = 50) {
+std::tuple<int, int> game(Strategy *A, Strategy *B, int iter) {
     int score[] = {0, 0};
 
+    A->clear(), B->clear();
     std::cout << "Player A : " << A->name() << ", Player B : " << B->name() << "\n";
 
     auto print = [&](int x) {
@@ -735,7 +820,7 @@ std::tuple<int, int> game(Strategy *A, Strategy *B, int iter = 50) {
     for (int i = 0; i < iter; i++) {
         Choice::ChoiceRef a = A->choose(), b = B->choose();
 
-        std::cout << "A : " << print(a) << ", B : " << print(b) << "\n";
+        if (iter <= 50) std::cout << "A : " << print(a) << ", B : " << print(b) << "\n";
 
         score[0] += rewards[a][b], score[1] += rewards[b][a];
 
@@ -748,7 +833,7 @@ std::tuple<int, int> game(Strategy *A, Strategy *B, int iter = 50) {
     return {score[0], score[1]};
 }
 
-void round_robin(const std::vector<Strategy *> &list) {
+void round_robin(const std::vector<Strategy *> &players, int iter) {
     std::ifstream data("simulate/robin/data.txt");
     int num = 0;
     while (!data.eof()) data >> num;
@@ -758,28 +843,74 @@ void round_robin(const std::vector<Strategy *> &list) {
     std::ofstream file("simulate/robin/" + std::to_string(num) + ".txt");
     freopen(("simulate/robin/" + std::to_string(num) + ".txt").c_str(), "w", stdout);
 
+    std::cout << "Number of rounds : " << iter << "\n\n";
+
+    std::vector<Strategy *> list = players;
+    int n = (int) list.size();
     for (auto &player: list) {
         std::cout << player->name() << "\n" << player->description() << "\n";
     }
 
-    std::vector<std::pair<int, Strategy *>> scores(list.size());
-    for (int i = 0; i < list.size(); i++) scores[i] = {0, list[i]};
+    std::map<Strategy *, std::pair<int, int>> score;
 
-    for (int i = 0; i < list.size(); i++) {
-        for (int j = i + 1; j < list.size(); j++) {
-            auto[x, y] = game(list[i], list[j]);
-            scores[i].first += x, scores[j].first += y;
+    for (int t = 0; t < n - 1; t++) {
+        std::cout << "=======================================================================\n";
+        std::cout << "Left Strategy : " << list.size() << "\n";
+        for (auto &x: list) std::cout << x->name() << " ";
+        std::cout << "\n\n";
+
+        std::vector<std::pair<int, Strategy *>> scores(list.size());
+        for (int i = 0; i < list.size(); i++) scores[i] = {0, list[i]};
+
+        for (int i = 0; i < list.size(); i++) {
+            for (int j = i + 1; j < list.size(); j++) {
+                auto[x, y] = game(list[i], list[j], iter);
+                scores[i].first += x, scores[j].first += y;
+            }
+        }
+
+        for (int i = 0; i < list.size(); i++) scores[i].first /= int(list.size() - 1);
+
+        std::sort(scores.begin(), scores.end(), [&](const std::pair<int, Strategy *> &a, std::pair<int, Strategy *> b) {
+            return a.first > b.first;
+        });
+
+        for (int i = 0; i < list.size(); i++) {
+            std::cout << i + 1 << ". " << scores[i].second->name() << " " << scores[i].first << "\n";
+        }
+
+        if (scores.back().first != scores.front().first) {
+            for (int i = 0; i < list.size(); i++) score[scores[i].second].second += scores[i].first;
+            Strategy *x = scores.back().second;
+            score[x].first = (int) list.size();
+            score[x].second /= int(n - list.size() + 1);
+            scores.pop_back();
+            int y = (int) list.size();
+            for (int i = 0; i < y; i++) {
+                if (list[i]->name() == x->name()) continue;
+                list.push_back(list[i]);
+            }
+            list.erase(list.begin(), list.begin() + y);
+        } else {
+            for (int i = 0; i < list.size(); i++) score[scores[i].second].second += scores[i].first;
+            if (t == n - 2)
+                for (int i = 0; i < list.size(); i++)
+                    score[scores[i].second].second /= (n - 1), score[scores[i].second].first = i + 1;
         }
     }
 
-    for (int i = 0; i < list.size(); i++) scores[i].first /= int(list.size() - 1);
+    std::cout << "=======================================================================\n\n\n"
+                 "-------------------------------Standings-------------------------------\n";
 
-    std::sort(scores.begin(), scores.end(), [&](const std::pair<int, Strategy *> &a, std::pair<int, Strategy *> b) {
+    std::vector<std::pair<int, Strategy *>> standing(n);
+    for (auto &i: players) standing[score[i].first - 1] = {score[i].second, i};
+
+    std::sort(standing.begin(), standing.end(), [&](const std::pair<int, Strategy *> &a, std::pair<int, Strategy *> b) {
         return a.first > b.first;
     });
 
-    for (int i = 0; i < list.size(); i++) {
-        std::cout << i + 1 << ". " << scores[i].second->name() << " " << scores[i].first << "\n";
+    for (int i = 0; i < n; i++) {
+        std::cout << i + 1 << ". " << standing[i].second->name() << " " << standing[i].first << "\n";
     }
 }
 
@@ -792,5 +923,7 @@ int main() {
     std::vector<Strategy *> list;
     for (auto &x: strategies) list.push_back(x);
 
-    round_robin(list);
+    int iter;
+    std::cin >> iter;
+    round_robin(list, iter);
 }
