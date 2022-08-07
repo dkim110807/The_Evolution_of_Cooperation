@@ -1,4 +1,4 @@
-Number of rounds : 200
+Number of rounds : 2000
 
 Tit for Tat
 - 처음에는 협력한다.                                               
@@ -76,4059 +76,4059 @@ Left Strategy : 19
 Tit for Tat Random (50%, 50%) Random (90%, 10%) Random (10%, 90%) Tit for 2 Tat Friedman All D All C Tester Joss Alternative Pavlov Mistrust Soft Major Hard Forgiver Prober Per Nasty Downing Modified Downing 
 
 Player A : Tit for Tat, Player B : Random (50%, 50%)
-A : 457, B : 457
+A : 4542, B : 4542
 ------------------------------------------------
 Player A : Tit for Tat, Player B : Random (90%, 10%)
-A : 256, B : 261
+A : 2507, B : 2512
 ------------------------------------------------
 Player A : Tit for Tat, Player B : Random (10%, 90%)
-A : 583, B : 583
+A : 5789, B : 5789
 ------------------------------------------------
 Player A : Tit for Tat, Player B : Tit for 2 Tat
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Tit for Tat, Player B : Friedman
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Tit for Tat, Player B : All D
-A : 199, B : 204
+A : 1999, B : 2004
 ------------------------------------------------
 Player A : Tit for Tat, Player B : All C
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Tit for Tat, Player B : Tester
-A : 496, B : 501
+A : 4996, B : 5001
 ------------------------------------------------
 Player A : Tit for Tat, Player B : Joss
-A : 299, B : 304
+A : 2041, B : 2046
 ------------------------------------------------
 Player A : Tit for Tat, Player B : Alternative
-A : 498, B : 503
+A : 4998, B : 5003
 ------------------------------------------------
 Player A : Tit for Tat, Player B : Pavlov
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Tit for Tat, Player B : Mistrust
-A : 500, B : 500
+A : 5000, B : 5000
 ------------------------------------------------
 Player A : Tit for Tat, Player B : Soft Major
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Tit for Tat, Player B : Hard Forgiver
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Tit for Tat, Player B : Prober
-A : 201, B : 206
+A : 2001, B : 2006
 ------------------------------------------------
 Player A : Tit for Tat, Player B : Per Nasty
-A : 397, B : 402
+A : 3997, B : 4002
 ------------------------------------------------
 Player A : Tit for Tat, Player B : Downing
-A : 340, B : 345
+A : 3442, B : 3447
 ------------------------------------------------
 Player A : Tit for Tat, Player B : Modified Downing
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Random (50%, 50%), Player B : Random (90%, 10%)
-A : 166, B : 556
+A : 1604, B : 5594
 ------------------------------------------------
 Player A : Random (50%, 50%), Player B : Random (10%, 90%)
-A : 755, B : 325
+A : 7365, B : 3175
 ------------------------------------------------
 Player A : Random (50%, 50%), Player B : Tit for 2 Tat
-A : 635, B : 375
+A : 6255, B : 3705
 ------------------------------------------------
 Player A : Random (50%, 50%), Player B : Friedman
-A : 102, B : 607
+A : 1026, B : 5921
 ------------------------------------------------
 Player A : Random (50%, 50%), Player B : All D
-A : 102, B : 592
+A : 985, B : 6060
 ------------------------------------------------
 Player A : Random (50%, 50%), Player B : All C
-A : 814, B : 279
+A : 7980, B : 3030
 ------------------------------------------------
 Player A : Random (50%, 50%), Player B : Tester
-A : 459, B : 424
+A : 4513, B : 4513
 ------------------------------------------------
 Player A : Random (50%, 50%), Player B : Joss
-A : 424, B : 484
+A : 4311, B : 4721
 ------------------------------------------------
 Player A : Random (50%, 50%), Player B : Alternative
-A : 435, B : 485
+A : 4548, B : 4453
 ------------------------------------------------
 Player A : Random (50%, 50%), Player B : Pavlov
-A : 504, B : 404
+A : 4454, B : 4544
 ------------------------------------------------
 Player A : Random (50%, 50%), Player B : Mistrust
-A : 446, B : 446
+A : 4551, B : 4556
 ------------------------------------------------
 Player A : Random (50%, 50%), Player B : Soft Major
-A : 775, B : 330
+A : 7929, B : 3064
 ------------------------------------------------
 Player A : Random (50%, 50%), Player B : Hard Forgiver
-A : 111, B : 581
+A : 1031, B : 5911
 ------------------------------------------------
 Player A : Random (50%, 50%), Player B : Prober
-A : 90, B : 655
+A : 4514, B : 4524
 ------------------------------------------------
 Player A : Random (50%, 50%), Player B : Per Nasty
-A : 333, B : 498
+A : 3363, B : 4938
 ------------------------------------------------
 Player A : Random (50%, 50%), Player B : Downing
-A : 442, B : 457
+A : 4356, B : 4491
 ------------------------------------------------
 Player A : Random (50%, 50%), Player B : Modified Downing
-A : 489, B : 434
+A : 4614, B : 4539
 ------------------------------------------------
 Player A : Random (90%, 10%), Player B : Random (10%, 90%)
-A : 906, B : 66
+A : 8752, B : 802
 ------------------------------------------------
 Player A : Random (90%, 10%), Player B : Tit for 2 Tat
-A : 304, B : 229
+A : 3347, B : 2397
 ------------------------------------------------
 Player A : Random (90%, 10%), Player B : Friedman
-A : 181, B : 291
+A : 1820, B : 2735
 ------------------------------------------------
 Player A : Random (90%, 10%), Player B : All D
-A : 187, B : 252
+A : 1804, B : 2784
 ------------------------------------------------
 Player A : Random (90%, 10%), Player B : All C
-A : 966, B : 51
+A : 9578, B : 633
 ------------------------------------------------
 Player A : Random (90%, 10%), Player B : Tester
-A : 261, B : 256
+A : 2685, B : 2685
 ------------------------------------------------
 Player A : Random (90%, 10%), Player B : Joss
-A : 271, B : 276
+A : 2546, B : 2626
 ------------------------------------------------
 Player A : Random (90%, 10%), Player B : Alternative
-A : 562, B : 177
+A : 5723, B : 1658
 ------------------------------------------------
 Player A : Random (90%, 10%), Player B : Pavlov
-A : 572, B : 167
+A : 5711, B : 1706
 ------------------------------------------------
 Player A : Random (90%, 10%), Player B : Mistrust
-A : 270, B : 270
+A : 2591, B : 2591
 ------------------------------------------------
 Player A : Random (90%, 10%), Player B : Soft Major
-A : 187, B : 267
+A : 1812, B : 2767
 ------------------------------------------------
 Player A : Random (90%, 10%), Player B : Hard Forgiver
-A : 189, B : 274
+A : 1816, B : 2766
 ------------------------------------------------
 Player A : Random (90%, 10%), Player B : Prober
-A : 265, B : 260
+A : 2611, B : 2606
 ------------------------------------------------
 Player A : Random (90%, 10%), Player B : Per Nasty
-A : 450, B : 175
+A : 4430, B : 2015
 ------------------------------------------------
 Player A : Random (90%, 10%), Player B : Downing
-A : 240, B : 270
+A : 2416, B : 2516
 ------------------------------------------------
 Player A : Random (90%, 10%), Player B : Modified Downing
-A : 274, B : 239
+A : 2559, B : 2609
 ------------------------------------------------
 Player A : Random (10%, 90%), Player B : Tit for 2 Tat
-A : 636, B : 546
+A : 6389, B : 5354
 ------------------------------------------------
 Player A : Random (10%, 90%), Player B : Friedman
-A : 56, B : 881
+A : 219, B : 9179
 ------------------------------------------------
 Player A : Random (10%, 90%), Player B : All D
-A : 21, B : 916
+A : 192, B : 9232
 ------------------------------------------------
 Player A : Random (10%, 90%), Player B : All C
-A : 638, B : 543
+A : 6370, B : 5445
 ------------------------------------------------
 Player A : Random (10%, 90%), Player B : Tester
-A : 333, B : 718
+A : 3309, B : 7289
 ------------------------------------------------
 Player A : Random (10%, 90%), Player B : Joss
-A : 515, B : 620
+A : 5227, B : 6142
 ------------------------------------------------
 Player A : Random (10%, 90%), Player B : Alternative
-A : 321, B : 756
+A : 3310, B : 7295
 ------------------------------------------------
 Player A : Random (10%, 90%), Player B : Pavlov
-A : 474, B : 634
+A : 3275, B : 7305
 ------------------------------------------------
 Player A : Random (10%, 90%), Player B : Mistrust
-A : 581, B : 581
+A : 5769, B : 5774
 ------------------------------------------------
 Player A : Random (10%, 90%), Player B : Soft Major
-A : 634, B : 549
+A : 6402, B : 5397
 ------------------------------------------------
 Player A : Random (10%, 90%), Player B : Hard Forgiver
-A : 86, B : 881
+A : 358, B : 9063
 ------------------------------------------------
 Player A : Random (10%, 90%), Player B : Prober
-A : 22, B : 922
+A : 196, B : 9226
 ------------------------------------------------
 Player A : Random (10%, 90%), Player B : Per Nasty
-A : 218, B : 823
+A : 2292, B : 7847
 ------------------------------------------------
 Player A : Random (10%, 90%), Player B : Downing
-A : 604, B : 554
+A : 5774, B : 5824
 ------------------------------------------------
 Player A : Random (10%, 90%), Player B : Modified Downing
-A : 583, B : 583
+A : 5687, B : 5797
 ------------------------------------------------
 Player A : Tit for 2 Tat, Player B : Friedman
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Tit for 2 Tat, Player B : All D
-A : 198, B : 208
+A : 1998, B : 2008
 ------------------------------------------------
 Player A : Tit for 2 Tat, Player B : All C
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Tit for 2 Tat, Player B : Tester
-A : 302, B : 797
+A : 3002, B : 7997
 ------------------------------------------------
 Player A : Tit for 2 Tat, Player B : Joss
-A : 547, B : 632
+A : 3014, B : 3279
 ------------------------------------------------
 Player A : Tit for 2 Tat, Player B : Alternative
-A : 300, B : 800
+A : 3000, B : 8000
 ------------------------------------------------
 Player A : Tit for 2 Tat, Player B : Pavlov
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Tit for 2 Tat, Player B : Mistrust
-A : 597, B : 602
+A : 5997, B : 6002
 ------------------------------------------------
 Player A : Tit for 2 Tat, Player B : Soft Major
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Tit for 2 Tat, Player B : Hard Forgiver
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Tit for 2 Tat, Player B : Prober
-A : 200, B : 210
+A : 2000, B : 2010
 ------------------------------------------------
 Player A : Tit for 2 Tat, Player B : Per Nasty
-A : 330, B : 670
+A : 3330, B : 6670
 ------------------------------------------------
 Player A : Tit for 2 Tat, Player B : Downing
-A : 597, B : 602
+A : 5997, B : 6002
 ------------------------------------------------
 Player A : Tit for 2 Tat, Player B : Modified Downing
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Friedman, Player B : All D
-A : 199, B : 204
+A : 1999, B : 2004
 ------------------------------------------------
 Player A : Friedman, Player B : All C
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Friedman, Player B : Tester
-A : 203, B : 203
+A : 2003, B : 2003
 ------------------------------------------------
 Player A : Friedman, Player B : Joss
-A : 211, B : 211
+A : 2011, B : 2016
 ------------------------------------------------
 Player A : Friedman, Player B : Alternative
-A : 597, B : 107
+A : 5997, B : 1007
 ------------------------------------------------
 Player A : Friedman, Player B : Pavlov
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Friedman, Player B : Mistrust
-A : 203, B : 203
+A : 2003, B : 2003
 ------------------------------------------------
 Player A : Friedman, Player B : Soft Major
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Friedman, Player B : Hard Forgiver
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Friedman, Player B : Prober
-A : 201, B : 206
+A : 2001, B : 2006
 ------------------------------------------------
 Player A : Friedman, Player B : Per Nasty
-A : 463, B : 138
+A : 4663, B : 1338
 ------------------------------------------------
 Player A : Friedman, Player B : Downing
-A : 227, B : 197
+A : 2023, B : 1998
 ------------------------------------------------
 Player A : Friedman, Player B : Modified Downing
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : All D, Player B : All C
-A : 1000, B : 0
+A : 10000, B : 0
 ------------------------------------------------
 Player A : All D, Player B : Tester
-A : 204, B : 199
+A : 2004, B : 1999
 ------------------------------------------------
 Player A : All D, Player B : Joss
-A : 204, B : 199
+A : 2004, B : 1999
 ------------------------------------------------
 Player A : All D, Player B : Alternative
-A : 600, B : 100
+A : 6000, B : 1000
 ------------------------------------------------
 Player A : All D, Player B : Pavlov
-A : 600, B : 100
+A : 6000, B : 1000
 ------------------------------------------------
 Player A : All D, Player B : Mistrust
-A : 200, B : 200
+A : 2000, B : 2000
 ------------------------------------------------
 Player A : All D, Player B : Soft Major
-A : 204, B : 199
+A : 2004, B : 1999
 ------------------------------------------------
 Player A : All D, Player B : Hard Forgiver
-A : 208, B : 198
+A : 2008, B : 1998
 ------------------------------------------------
 Player A : All D, Player B : Prober
-A : 204, B : 199
+A : 2004, B : 1999
 ------------------------------------------------
 Player A : All D, Player B : Per Nasty
-A : 464, B : 134
+A : 4664, B : 1334
 ------------------------------------------------
 Player A : All D, Player B : Downing
-A : 200, B : 200
+A : 2004, B : 1999
 ------------------------------------------------
 Player A : All D, Player B : Modified Downing
-A : 204, B : 199
+A : 2008, B : 1998
 ------------------------------------------------
 Player A : All C, Player B : Tester
-A : 300, B : 800
+A : 3000, B : 8000
 ------------------------------------------------
 Player A : All C, Player B : Joss
-A : 543, B : 638
+A : 5391, B : 6406
 ------------------------------------------------
 Player A : All C, Player B : Alternative
-A : 300, B : 800
+A : 3000, B : 8000
 ------------------------------------------------
 Player A : All C, Player B : Pavlov
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : All C, Player B : Mistrust
-A : 597, B : 602
+A : 5997, B : 6002
 ------------------------------------------------
 Player A : All C, Player B : Soft Major
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : All C, Player B : Hard Forgiver
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : All C, Player B : Prober
-A : 3, B : 998
+A : 3, B : 9998
 ------------------------------------------------
 Player A : All C, Player B : Per Nasty
-A : 198, B : 868
+A : 1998, B : 8668
 ------------------------------------------------
 Player A : All C, Player B : Downing
-A : 597, B : 602
+A : 5997, B : 6002
 ------------------------------------------------
 Player A : All C, Player B : Modified Downing
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Tester, Player B : Joss
-A : 338, B : 338
+A : 2114, B : 2114
 ------------------------------------------------
 Player A : Tester, Player B : Alternative
-A : 499, B : 499
+A : 4999, B : 4999
 ------------------------------------------------
 Player A : Tester, Player B : Pavlov
-A : 600, B : 595
+A : 6000, B : 5995
 ------------------------------------------------
 Player A : Tester, Player B : Mistrust
-A : 497, B : 497
+A : 4997, B : 4997
 ------------------------------------------------
 Player A : Tester, Player B : Soft Major
-A : 203, B : 203
+A : 2003, B : 2003
 ------------------------------------------------
 Player A : Tester, Player B : Hard Forgiver
-A : 115, B : 595
+A : 1015, B : 5995
 ------------------------------------------------
 Player A : Tester, Player B : Prober
-A : 501, B : 496
+A : 5001, B : 4996
 ------------------------------------------------
 Player A : Tester, Player B : Per Nasty
-A : 396, B : 401
+A : 3996, B : 4001
 ------------------------------------------------
 Player A : Tester, Player B : Downing
-A : 408, B : 413
+A : 2670, B : 2675
 ------------------------------------------------
 Player A : Tester, Player B : Modified Downing
-A : 463, B : 458
+A : 3163, B : 3163
 ------------------------------------------------
 Player A : Joss, Player B : Alternative
-A : 508, B : 463
+A : 5108, B : 4563
 ------------------------------------------------
 Player A : Joss, Player B : Pavlov
-A : 422, B : 382
+A : 4139, B : 3799
 ------------------------------------------------
 Player A : Joss, Player B : Mistrust
-A : 218, B : 218
+A : 2006, B : 2006
 ------------------------------------------------
 Player A : Joss, Player B : Soft Major
-A : 628, B : 558
+A : 6382, B : 5427
 ------------------------------------------------
 Player A : Joss, Player B : Hard Forgiver
-A : 228, B : 228
+A : 2012, B : 2012
 ------------------------------------------------
 Player A : Joss, Player B : Prober
-A : 201, B : 206
+A : 2001, B : 2006
 ------------------------------------------------
 Player A : Joss, Player B : Per Nasty
-A : 404, B : 374
+A : 4052, B : 3782
 ------------------------------------------------
 Player A : Joss, Player B : Downing
-A : 326, B : 316
+A : 3395, B : 3195
 ------------------------------------------------
 Player A : Joss, Player B : Modified Downing
-A : 602, B : 522
+A : 4871, B : 4311
 ------------------------------------------------
 Player A : Alternative, Player B : Pavlov
-A : 450, B : 450
+A : 4500, B : 4500
 ------------------------------------------------
 Player A : Alternative, Player B : Mistrust
-A : 500, B : 500
+A : 5000, B : 5000
 ------------------------------------------------
 Player A : Alternative, Player B : Soft Major
-A : 800, B : 300
+A : 8000, B : 3000
 ------------------------------------------------
 Player A : Alternative, Player B : Hard Forgiver
-A : 111, B : 596
+A : 1011, B : 5996
 ------------------------------------------------
 Player A : Alternative, Player B : Prober
-A : 499, B : 499
+A : 4999, B : 4999
 ------------------------------------------------
 Player A : Alternative, Player B : Per Nasty
-A : 331, B : 501
+A : 3331, B : 5001
 ------------------------------------------------
 Player A : Alternative, Player B : Downing
-A : 296, B : 551
+A : 3024, B : 5494
 ------------------------------------------------
 Player A : Alternative, Player B : Modified Downing
-A : 592, B : 352
+A : 6012, B : 3497
 ------------------------------------------------
 Player A : Pavlov, Player B : Mistrust
-A : 401, B : 401
+A : 4001, B : 4001
 ------------------------------------------------
 Player A : Pavlov, Player B : Soft Major
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Pavlov, Player B : Hard Forgiver
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Pavlov, Player B : Prober
-A : 399, B : 404
+A : 3999, B : 4004
 ------------------------------------------------
 Player A : Pavlov, Player B : Per Nasty
-A : 265, B : 600
+A : 2665, B : 6000
 ------------------------------------------------
 Player A : Pavlov, Player B : Downing
-A : 293, B : 518
+A : 1410, B : 5825
 ------------------------------------------------
 Player A : Pavlov, Player B : Modified Downing
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Mistrust, Player B : Soft Major
-A : 500, B : 500
+A : 5000, B : 5000
 ------------------------------------------------
 Player A : Mistrust, Player B : Hard Forgiver
-A : 602, B : 597
+A : 6002, B : 5997
 ------------------------------------------------
 Player A : Mistrust, Player B : Prober
-A : 203, B : 203
+A : 2003, B : 2003
 ------------------------------------------------
 Player A : Mistrust, Player B : Per Nasty
-A : 398, B : 398
+A : 3998, B : 3998
 ------------------------------------------------
 Player A : Mistrust, Player B : Downing
-A : 200, B : 200
+A : 2024, B : 2024
 ------------------------------------------------
 Player A : Mistrust, Player B : Modified Downing
-A : 525, B : 520
+A : 4546, B : 4541
 ------------------------------------------------
 Player A : Soft Major, Player B : Hard Forgiver
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Soft Major, Player B : Prober
-A : 200, B : 210
+A : 2000, B : 2010
 ------------------------------------------------
 Player A : Soft Major, Player B : Per Nasty
-A : 463, B : 138
+A : 4663, B : 1338
 ------------------------------------------------
 Player A : Soft Major, Player B : Downing
-A : 245, B : 200
+A : 2078, B : 1988
 ------------------------------------------------
 Player A : Soft Major, Player B : Modified Downing
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Hard Forgiver, Player B : Prober
-A : 201, B : 206
+A : 2001, B : 2006
 ------------------------------------------------
 Player A : Hard Forgiver, Player B : Per Nasty
-A : 462, B : 142
+A : 4662, B : 1342
 ------------------------------------------------
 Player A : Hard Forgiver, Player B : Downing
-A : 597, B : 602
+A : 5997, B : 6002
 ------------------------------------------------
 Player A : Hard Forgiver, Player B : Modified Downing
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Prober, Player B : Per Nasty
-A : 397, B : 402
+A : 3997, B : 4002
 ------------------------------------------------
 Player A : Prober, Player B : Downing
-A : 245, B : 245
+A : 4410, B : 4410
 ------------------------------------------------
 Player A : Prober, Player B : Modified Downing
-A : 242, B : 192
+A : 2038, B : 1993
 ------------------------------------------------
 Player A : Per Nasty, Player B : Downing
-A : 386, B : 376
+A : 3799, B : 3774
 ------------------------------------------------
 Player A : Per Nasty, Player B : Modified Downing
-A : 357, B : 387
+A : 3814, B : 3754
 ------------------------------------------------
 Player A : Downing, Player B : Modified Downing
-A : 504, B : 524
+A : 4874, B : 4869
 ------------------------------------------------
-1. Hard Forgiver 522
-2. Modified Downing 478
-3. Tit for Tat 468
-4. Tit for 2 Tat 467
-5. Friedman 460
-6. Pavlov 460
-7. Alternative 459
-8. Soft Major 445
-9. Tester 439
-10. All C 422
-11. Random (50%, 50%) 418
-12. Mistrust 413
-13. Per Nasty 411
-14. Joss 402
-15. Downing 397
-16. Random (90%, 10%) 383
-17. Prober 375
-18. Random (10%, 90%) 372
-19. All D 370
+1. Hard Forgiver 5244
+2. Tit for Tat 4628
+3. Modified Downing 4615
+4. Pavlov 4606
+5. Friedman 4585
+6. Alternative 4547
+7. Tit for 2 Tat 4544
+8. Soft Major 4411
+9. Random (50%, 50%) 4330
+10. All C 4249
+11. Tester 4191
+12. Per Nasty 4104
+13. Mistrust 4083
+14. Downing 4030
+15. Random (90%, 10%) 3794
+16. Prober 3713
+17. All D 3710
+18. Joss 3628
+19. Random (10%, 90%) 3585
 =======================================================================
 Left Strategy : 18
-Tit for Tat Random (50%, 50%) Random (90%, 10%) Random (10%, 90%) Tit for 2 Tat Friedman All C Tester Joss Alternative Pavlov Mistrust Soft Major Hard Forgiver Prober Per Nasty Downing Modified Downing 
+Tit for Tat Random (50%, 50%) Random (90%, 10%) Tit for 2 Tat Friedman All D All C Tester Joss Alternative Pavlov Mistrust Soft Major Hard Forgiver Prober Per Nasty Downing Modified Downing 
 
 Player A : Tit for Tat, Player B : Random (50%, 50%)
-A : 455, B : 460
+A : 4495, B : 4495
 ------------------------------------------------
 Player A : Tit for Tat, Player B : Random (90%, 10%)
-A : 255, B : 260
-------------------------------------------------
-Player A : Tit for Tat, Player B : Random (10%, 90%)
-A : 579, B : 584
+A : 2666, B : 2671
 ------------------------------------------------
 Player A : Tit for Tat, Player B : Tit for 2 Tat
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Tit for Tat, Player B : Friedman
-A : 600, B : 600
+A : 6000, B : 6000
+------------------------------------------------
+Player A : Tit for Tat, Player B : All D
+A : 1999, B : 2004
 ------------------------------------------------
 Player A : Tit for Tat, Player B : All C
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Tit for Tat, Player B : Tester
-A : 496, B : 501
+A : 4996, B : 5001
 ------------------------------------------------
 Player A : Tit for Tat, Player B : Joss
-A : 233, B : 238
+A : 2025, B : 2030
 ------------------------------------------------
 Player A : Tit for Tat, Player B : Alternative
-A : 498, B : 503
+A : 4998, B : 5003
 ------------------------------------------------
 Player A : Tit for Tat, Player B : Pavlov
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Tit for Tat, Player B : Mistrust
-A : 500, B : 500
+A : 5000, B : 5000
 ------------------------------------------------
 Player A : Tit for Tat, Player B : Soft Major
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Tit for Tat, Player B : Hard Forgiver
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Tit for Tat, Player B : Prober
-A : 201, B : 206
+A : 2001, B : 2006
 ------------------------------------------------
 Player A : Tit for Tat, Player B : Per Nasty
-A : 397, B : 402
+A : 3997, B : 4002
 ------------------------------------------------
 Player A : Tit for Tat, Player B : Downing
-A : 256, B : 261
+A : 3586, B : 3591
 ------------------------------------------------
 Player A : Tit for Tat, Player B : Modified Downing
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Random (50%, 50%), Player B : Random (90%, 10%)
-A : 160, B : 560
-------------------------------------------------
-Player A : Random (50%, 50%), Player B : Random (10%, 90%)
-A : 733, B : 313
+A : 1592, B : 5682
 ------------------------------------------------
 Player A : Random (50%, 50%), Player B : Tit for 2 Tat
-A : 636, B : 371
+A : 6196, B : 3731
 ------------------------------------------------
 Player A : Random (50%, 50%), Player B : Friedman
-A : 103, B : 613
+A : 1047, B : 5857
+------------------------------------------------
+Player A : Random (50%, 50%), Player B : All D
+A : 987, B : 6052
 ------------------------------------------------
 Player A : Random (50%, 50%), Player B : All C
-A : 772, B : 342
+A : 8020, B : 2970
 ------------------------------------------------
 Player A : Random (50%, 50%), Player B : Tester
-A : 450, B : 440
+A : 4485, B : 4520
 ------------------------------------------------
 Player A : Random (50%, 50%), Player B : Joss
-A : 446, B : 486
+A : 4163, B : 4703
 ------------------------------------------------
 Player A : Random (50%, 50%), Player B : Alternative
-A : 460, B : 425
+A : 4489, B : 4544
 ------------------------------------------------
 Player A : Random (50%, 50%), Player B : Pavlov
-A : 444, B : 474
+A : 4566, B : 4436
 ------------------------------------------------
 Player A : Random (50%, 50%), Player B : Mistrust
-A : 416, B : 416
+A : 4572, B : 4572
 ------------------------------------------------
 Player A : Random (50%, 50%), Player B : Soft Major
-A : 744, B : 339
+A : 2586, B : 5271
 ------------------------------------------------
 Player A : Random (50%, 50%), Player B : Hard Forgiver
-A : 116, B : 601
+A : 1020, B : 5980
 ------------------------------------------------
 Player A : Random (50%, 50%), Player B : Prober
-A : 459, B : 459
+A : 1031, B : 5886
 ------------------------------------------------
 Player A : Random (50%, 50%), Player B : Per Nasty
-A : 326, B : 531
+A : 3324, B : 5009
 ------------------------------------------------
 Player A : Random (50%, 50%), Player B : Downing
-A : 422, B : 512
+A : 4162, B : 4672
 ------------------------------------------------
 Player A : Random (50%, 50%), Player B : Modified Downing
-A : 462, B : 467
-------------------------------------------------
-Player A : Random (90%, 10%), Player B : Random (10%, 90%)
-A : 878, B : 78
+A : 4489, B : 4419
 ------------------------------------------------
 Player A : Random (90%, 10%), Player B : Tit for 2 Tat
-A : 279, B : 219
+A : 3192, B : 2357
 ------------------------------------------------
 Player A : Random (90%, 10%), Player B : Friedman
-A : 184, B : 279
+A : 1824, B : 2719
+------------------------------------------------
+Player A : Random (90%, 10%), Player B : All D
+A : 1802, B : 2792
 ------------------------------------------------
 Player A : Random (90%, 10%), Player B : All C
-A : 954, B : 69
+A : 9628, B : 558
 ------------------------------------------------
 Player A : Random (90%, 10%), Player B : Tester
-A : 556, B : 201
+A : 2586, B : 2581
 ------------------------------------------------
 Player A : Random (90%, 10%), Player B : Joss
-A : 257, B : 282
+A : 2590, B : 2680
 ------------------------------------------------
 Player A : Random (90%, 10%), Player B : Alternative
-A : 561, B : 181
+A : 5708, B : 1698
 ------------------------------------------------
 Player A : Random (90%, 10%), Player B : Pavlov
-A : 585, B : 145
+A : 5711, B : 1701
 ------------------------------------------------
 Player A : Random (90%, 10%), Player B : Mistrust
-A : 263, B : 263
+A : 2636, B : 2636
 ------------------------------------------------
 Player A : Random (90%, 10%), Player B : Soft Major
-A : 184, B : 279
+A : 1836, B : 2711
 ------------------------------------------------
 Player A : Random (90%, 10%), Player B : Hard Forgiver
-A : 188, B : 278
+A : 1808, B : 2798
 ------------------------------------------------
 Player A : Random (90%, 10%), Player B : Prober
-A : 274, B : 269
+A : 2558, B : 2563
 ------------------------------------------------
 Player A : Random (90%, 10%), Player B : Per Nasty
-A : 441, B : 201
+A : 4409, B : 2044
 ------------------------------------------------
 Player A : Random (90%, 10%), Player B : Downing
-A : 244, B : 269
+A : 2657, B : 2562
 ------------------------------------------------
 Player A : Random (90%, 10%), Player B : Modified Downing
-A : 259, B : 274
-------------------------------------------------
-Player A : Random (10%, 90%), Player B : Tit for 2 Tat
-A : 630, B : 550
-------------------------------------------------
-Player A : Random (10%, 90%), Player B : Friedman
-A : 28, B : 923
-------------------------------------------------
-Player A : Random (10%, 90%), Player B : All C
-A : 626, B : 561
-------------------------------------------------
-Player A : Random (10%, 90%), Player B : Tester
-A : 331, B : 726
-------------------------------------------------
-Player A : Random (10%, 90%), Player B : Joss
-A : 511, B : 611
-------------------------------------------------
-Player A : Random (10%, 90%), Player B : Alternative
-A : 328, B : 723
-------------------------------------------------
-Player A : Random (10%, 90%), Player B : Pavlov
-A : 320, B : 735
-------------------------------------------------
-Player A : Random (10%, 90%), Player B : Mistrust
-A : 572, B : 577
-------------------------------------------------
-Player A : Random (10%, 90%), Player B : Soft Major
-A : 644, B : 534
-------------------------------------------------
-Player A : Random (10%, 90%), Player B : Hard Forgiver
-A : 132, B : 857
-------------------------------------------------
-Player A : Random (10%, 90%), Player B : Prober
-A : 32, B : 882
-------------------------------------------------
-Player A : Random (10%, 90%), Player B : Per Nasty
-A : 234, B : 774
-------------------------------------------------
-Player A : Random (10%, 90%), Player B : Downing
-A : 574, B : 594
-------------------------------------------------
-Player A : Random (10%, 90%), Player B : Modified Downing
-A : 604, B : 569
+A : 2637, B : 2507
 ------------------------------------------------
 Player A : Tit for 2 Tat, Player B : Friedman
-A : 600, B : 600
+A : 6000, B : 6000
+------------------------------------------------
+Player A : Tit for 2 Tat, Player B : All D
+A : 1998, B : 2008
 ------------------------------------------------
 Player A : Tit for 2 Tat, Player B : All C
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Tit for 2 Tat, Player B : Tester
-A : 302, B : 797
+A : 3002, B : 7997
 ------------------------------------------------
 Player A : Tit for 2 Tat, Player B : Joss
-A : 529, B : 644
+A : 2335, B : 2475
 ------------------------------------------------
 Player A : Tit for 2 Tat, Player B : Alternative
-A : 300, B : 800
+A : 3000, B : 8000
 ------------------------------------------------
 Player A : Tit for 2 Tat, Player B : Pavlov
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Tit for 2 Tat, Player B : Mistrust
-A : 597, B : 602
+A : 5997, B : 6002
 ------------------------------------------------
 Player A : Tit for 2 Tat, Player B : Soft Major
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Tit for 2 Tat, Player B : Hard Forgiver
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Tit for 2 Tat, Player B : Prober
-A : 200, B : 210
+A : 2000, B : 2010
 ------------------------------------------------
 Player A : Tit for 2 Tat, Player B : Per Nasty
-A : 330, B : 670
+A : 3330, B : 6670
 ------------------------------------------------
 Player A : Tit for 2 Tat, Player B : Downing
-A : 597, B : 602
+A : 5997, B : 6002
 ------------------------------------------------
 Player A : Tit for 2 Tat, Player B : Modified Downing
-A : 600, B : 600
+A : 6000, B : 6000
+------------------------------------------------
+Player A : Friedman, Player B : All D
+A : 1999, B : 2004
 ------------------------------------------------
 Player A : Friedman, Player B : All C
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Friedman, Player B : Tester
-A : 203, B : 203
+A : 2003, B : 2003
 ------------------------------------------------
 Player A : Friedman, Player B : Joss
-A : 209, B : 209
+A : 2017, B : 2017
 ------------------------------------------------
 Player A : Friedman, Player B : Alternative
-A : 597, B : 107
+A : 5997, B : 1007
 ------------------------------------------------
 Player A : Friedman, Player B : Pavlov
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Friedman, Player B : Mistrust
-A : 203, B : 203
+A : 2003, B : 2003
 ------------------------------------------------
 Player A : Friedman, Player B : Soft Major
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Friedman, Player B : Hard Forgiver
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Friedman, Player B : Prober
-A : 201, B : 206
+A : 2001, B : 2006
 ------------------------------------------------
 Player A : Friedman, Player B : Per Nasty
-A : 463, B : 138
+A : 4663, B : 1338
 ------------------------------------------------
 Player A : Friedman, Player B : Downing
-A : 211, B : 201
+A : 2023, B : 1998
 ------------------------------------------------
 Player A : Friedman, Player B : Modified Downing
-A : 600, B : 600
+A : 6000, B : 6000
+------------------------------------------------
+Player A : All D, Player B : All C
+A : 10000, B : 0
+------------------------------------------------
+Player A : All D, Player B : Tester
+A : 2004, B : 1999
+------------------------------------------------
+Player A : All D, Player B : Joss
+A : 2004, B : 1999
+------------------------------------------------
+Player A : All D, Player B : Alternative
+A : 6000, B : 1000
+------------------------------------------------
+Player A : All D, Player B : Pavlov
+A : 6000, B : 1000
+------------------------------------------------
+Player A : All D, Player B : Mistrust
+A : 2000, B : 2000
+------------------------------------------------
+Player A : All D, Player B : Soft Major
+A : 2004, B : 1999
+------------------------------------------------
+Player A : All D, Player B : Hard Forgiver
+A : 2008, B : 1998
+------------------------------------------------
+Player A : All D, Player B : Prober
+A : 2004, B : 1999
+------------------------------------------------
+Player A : All D, Player B : Per Nasty
+A : 4664, B : 1334
+------------------------------------------------
+Player A : All D, Player B : Downing
+A : 2000, B : 2000
+------------------------------------------------
+Player A : All D, Player B : Modified Downing
+A : 2004, B : 1999
 ------------------------------------------------
 Player A : All C, Player B : Tester
-A : 300, B : 800
+A : 3000, B : 8000
 ------------------------------------------------
 Player A : All C, Player B : Joss
-A : 546, B : 636
+A : 5322, B : 6452
 ------------------------------------------------
 Player A : All C, Player B : Alternative
-A : 300, B : 800
+A : 3000, B : 8000
 ------------------------------------------------
 Player A : All C, Player B : Pavlov
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : All C, Player B : Mistrust
-A : 597, B : 602
+A : 5997, B : 6002
 ------------------------------------------------
 Player A : All C, Player B : Soft Major
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : All C, Player B : Hard Forgiver
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : All C, Player B : Prober
-A : 3, B : 998
+A : 3, B : 9998
 ------------------------------------------------
 Player A : All C, Player B : Per Nasty
-A : 198, B : 868
+A : 1998, B : 8668
 ------------------------------------------------
 Player A : All C, Player B : Downing
-A : 597, B : 602
+A : 5997, B : 6002
 ------------------------------------------------
 Player A : All C, Player B : Modified Downing
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Tester, Player B : Joss
-A : 257, B : 257
+A : 2012, B : 2012
 ------------------------------------------------
 Player A : Tester, Player B : Alternative
-A : 499, B : 499
+A : 4999, B : 4999
 ------------------------------------------------
 Player A : Tester, Player B : Pavlov
-A : 600, B : 595
+A : 6000, B : 5995
 ------------------------------------------------
 Player A : Tester, Player B : Mistrust
-A : 497, B : 497
+A : 4997, B : 4997
 ------------------------------------------------
 Player A : Tester, Player B : Soft Major
-A : 203, B : 203
+A : 2003, B : 2003
 ------------------------------------------------
 Player A : Tester, Player B : Hard Forgiver
-A : 115, B : 595
+A : 1015, B : 5995
 ------------------------------------------------
 Player A : Tester, Player B : Prober
-A : 501, B : 496
+A : 5001, B : 4996
 ------------------------------------------------
 Player A : Tester, Player B : Per Nasty
-A : 396, B : 401
+A : 3996, B : 4001
 ------------------------------------------------
 Player A : Tester, Player B : Downing
-A : 211, B : 216
+A : 2935, B : 2940
 ------------------------------------------------
 Player A : Tester, Player B : Modified Downing
-A : 457, B : 457
+A : 2534, B : 2534
 ------------------------------------------------
 Player A : Joss, Player B : Alternative
-A : 513, B : 443
+A : 5114, B : 4539
 ------------------------------------------------
 Player A : Joss, Player B : Pavlov
-A : 416, B : 386
+A : 4139, B : 3799
 ------------------------------------------------
 Player A : Joss, Player B : Mistrust
-A : 203, B : 203
+A : 2030, B : 2030
 ------------------------------------------------
 Player A : Joss, Player B : Soft Major
-A : 634, B : 549
+A : 6380, B : 5430
 ------------------------------------------------
 Player A : Joss, Player B : Hard Forgiver
-A : 240, B : 240
+A : 2020, B : 2020
 ------------------------------------------------
 Player A : Joss, Player B : Prober
-A : 201, B : 206
+A : 2002, B : 2002
 ------------------------------------------------
 Player A : Joss, Player B : Per Nasty
-A : 401, B : 386
+A : 4067, B : 3722
 ------------------------------------------------
 Player A : Joss, Player B : Downing
-A : 408, B : 373
+A : 3888, B : 3583
 ------------------------------------------------
 Player A : Joss, Player B : Modified Downing
-A : 504, B : 439
+A : 4405, B : 3955
 ------------------------------------------------
 Player A : Alternative, Player B : Pavlov
-A : 450, B : 450
+A : 4500, B : 4500
 ------------------------------------------------
 Player A : Alternative, Player B : Mistrust
-A : 500, B : 500
+A : 5000, B : 5000
 ------------------------------------------------
 Player A : Alternative, Player B : Soft Major
-A : 800, B : 300
+A : 8000, B : 3000
 ------------------------------------------------
 Player A : Alternative, Player B : Hard Forgiver
-A : 111, B : 596
+A : 1011, B : 5996
 ------------------------------------------------
 Player A : Alternative, Player B : Prober
-A : 499, B : 499
+A : 4999, B : 4999
 ------------------------------------------------
 Player A : Alternative, Player B : Per Nasty
-A : 331, B : 501
+A : 3331, B : 5001
 ------------------------------------------------
 Player A : Alternative, Player B : Downing
-A : 296, B : 551
+A : 2980, B : 5505
 ------------------------------------------------
 Player A : Alternative, Player B : Modified Downing
-A : 604, B : 349
+A : 5980, B : 3505
 ------------------------------------------------
 Player A : Pavlov, Player B : Mistrust
-A : 401, B : 401
+A : 4001, B : 4001
 ------------------------------------------------
 Player A : Pavlov, Player B : Soft Major
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Pavlov, Player B : Hard Forgiver
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Pavlov, Player B : Prober
-A : 399, B : 404
+A : 3999, B : 4004
 ------------------------------------------------
 Player A : Pavlov, Player B : Per Nasty
-A : 265, B : 600
+A : 2665, B : 6000
 ------------------------------------------------
 Player A : Pavlov, Player B : Downing
-A : 286, B : 521
+A : 1424, B : 5819
 ------------------------------------------------
 Player A : Pavlov, Player B : Modified Downing
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Mistrust, Player B : Soft Major
-A : 500, B : 500
+A : 5000, B : 5000
 ------------------------------------------------
 Player A : Mistrust, Player B : Hard Forgiver
-A : 602, B : 597
+A : 6002, B : 5997
 ------------------------------------------------
 Player A : Mistrust, Player B : Prober
-A : 203, B : 203
+A : 2003, B : 2003
 ------------------------------------------------
 Player A : Mistrust, Player B : Per Nasty
-A : 398, B : 398
+A : 3998, B : 3998
 ------------------------------------------------
 Player A : Mistrust, Player B : Downing
-A : 203, B : 203
+A : 2027, B : 2027
 ------------------------------------------------
 Player A : Mistrust, Player B : Modified Downing
-A : 507, B : 507
+A : 5361, B : 5361
 ------------------------------------------------
 Player A : Soft Major, Player B : Hard Forgiver
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Soft Major, Player B : Prober
-A : 200, B : 210
+A : 2000, B : 2010
 ------------------------------------------------
 Player A : Soft Major, Player B : Per Nasty
-A : 463, B : 138
+A : 4663, B : 1338
 ------------------------------------------------
 Player A : Soft Major, Player B : Downing
-A : 222, B : 202
+A : 2097, B : 1987
 ------------------------------------------------
 Player A : Soft Major, Player B : Modified Downing
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Hard Forgiver, Player B : Prober
-A : 201, B : 206
+A : 2001, B : 2006
 ------------------------------------------------
 Player A : Hard Forgiver, Player B : Per Nasty
-A : 462, B : 142
+A : 4662, B : 1342
 ------------------------------------------------
 Player A : Hard Forgiver, Player B : Downing
-A : 597, B : 602
+A : 5997, B : 6002
 ------------------------------------------------
 Player A : Hard Forgiver, Player B : Modified Downing
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Prober, Player B : Per Nasty
-A : 397, B : 402
+A : 3997, B : 4002
 ------------------------------------------------
 Player A : Prober, Player B : Downing
-A : 392, B : 392
+A : 2606, B : 2606
 ------------------------------------------------
 Player A : Prober, Player B : Modified Downing
-A : 222, B : 197
+A : 2034, B : 1994
 ------------------------------------------------
 Player A : Per Nasty, Player B : Downing
-A : 375, B : 375
+A : 3755, B : 3785
 ------------------------------------------------
 Player A : Per Nasty, Player B : Modified Downing
-A : 403, B : 368
+A : 3698, B : 3808
 ------------------------------------------------
 Player A : Downing, Player B : Modified Downing
-A : 386, B : 411
+A : 3878, B : 3843
 ------------------------------------------------
-1. Hard Forgiver 542
-2. Pavlov 490
-3. Modified Downing 484
-4. Tit for 2 Tat 482
-5. Friedman 476
-6. Alternative 474
-7. Tit for Tat 474
-8. Soft Major 458
-9. All C 453
-10. Random (50%, 50%) 447
-11. Tester 435
-12. Per Nasty 431
-13. Mistrust 422
-14. Random (90%, 10%) 407
-15. Joss 404
-16. Downing 403
-17. Random (10%, 90%) 384
-18. Prober 380
+1. Hard Forgiver 5026
+2. Tit for Tat 4574
+3. Soft Major 4480
+4. Modified Downing 4466
+5. Tit for 2 Tat 4455
+6. Pavlov 4442
+7. Alternative 4387
+8. Friedman 4310
+9. All C 4167
+10. Mistrust 4037
+11. Tester 3976
+12. Per Nasty 3877
+13. Downing 3821
+14. Random (50%, 50%) 3601
+15. Random (90%, 10%) 3525
+16. Joss 3436
+17. All D 3385
+18. Prober 3360
 =======================================================================
 Left Strategy : 17
-Tit for Tat Random (50%, 50%) Random (90%, 10%) Random (10%, 90%) Tit for 2 Tat Friedman All C Tester Joss Alternative Pavlov Mistrust Soft Major Hard Forgiver Per Nasty Downing Modified Downing 
+Tit for Tat Random (50%, 50%) Random (90%, 10%) Tit for 2 Tat Friedman All D All C Tester Joss Alternative Pavlov Mistrust Soft Major Hard Forgiver Per Nasty Downing Modified Downing 
 
 Player A : Tit for Tat, Player B : Random (50%, 50%)
-A : 453, B : 453
+A : 4496, B : 4501
 ------------------------------------------------
 Player A : Tit for Tat, Player B : Random (90%, 10%)
-A : 257, B : 262
-------------------------------------------------
-Player A : Tit for Tat, Player B : Random (10%, 90%)
-A : 575, B : 575
+A : 2580, B : 2585
 ------------------------------------------------
 Player A : Tit for Tat, Player B : Tit for 2 Tat
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Tit for Tat, Player B : Friedman
-A : 600, B : 600
+A : 6000, B : 6000
+------------------------------------------------
+Player A : Tit for Tat, Player B : All D
+A : 1999, B : 2004
 ------------------------------------------------
 Player A : Tit for Tat, Player B : All C
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Tit for Tat, Player B : Tester
-A : 496, B : 501
+A : 4996, B : 5001
 ------------------------------------------------
 Player A : Tit for Tat, Player B : Joss
-A : 214, B : 219
+A : 2061, B : 2066
 ------------------------------------------------
 Player A : Tit for Tat, Player B : Alternative
-A : 498, B : 503
+A : 4998, B : 5003
 ------------------------------------------------
 Player A : Tit for Tat, Player B : Pavlov
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Tit for Tat, Player B : Mistrust
-A : 500, B : 500
+A : 5000, B : 5000
 ------------------------------------------------
 Player A : Tit for Tat, Player B : Soft Major
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Tit for Tat, Player B : Hard Forgiver
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Tit for Tat, Player B : Per Nasty
-A : 397, B : 402
+A : 3997, B : 4002
 ------------------------------------------------
 Player A : Tit for Tat, Player B : Downing
-A : 374, B : 379
+A : 3925, B : 3925
 ------------------------------------------------
 Player A : Tit for Tat, Player B : Modified Downing
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Random (50%, 50%), Player B : Random (90%, 10%)
-A : 143, B : 558
-------------------------------------------------
-Player A : Random (50%, 50%), Player B : Random (10%, 90%)
-A : 742, B : 327
+A : 1546, B : 5616
 ------------------------------------------------
 Player A : Random (50%, 50%), Player B : Tit for 2 Tat
-A : 610, B : 360
+A : 6251, B : 3721
 ------------------------------------------------
 Player A : Random (50%, 50%), Player B : Friedman
-A : 124, B : 529
+A : 988, B : 6063
+------------------------------------------------
+Player A : Random (50%, 50%), Player B : All D
+A : 1019, B : 5924
 ------------------------------------------------
 Player A : Random (50%, 50%), Player B : All C
-A : 814, B : 279
+A : 7986, B : 3021
 ------------------------------------------------
 Player A : Random (50%, 50%), Player B : Tester
-A : 439, B : 439
+A : 4551, B : 4466
 ------------------------------------------------
 Player A : Random (50%, 50%), Player B : Joss
-A : 413, B : 463
+A : 4138, B : 4708
 ------------------------------------------------
 Player A : Random (50%, 50%), Player B : Alternative
-A : 446, B : 476
+A : 4503, B : 4453
 ------------------------------------------------
 Player A : Random (50%, 50%), Player B : Pavlov
-A : 456, B : 436
+A : 4475, B : 4555
 ------------------------------------------------
 Player A : Random (50%, 50%), Player B : Mistrust
-A : 449, B : 454
+A : 4501, B : 4501
 ------------------------------------------------
 Player A : Random (50%, 50%), Player B : Soft Major
-A : 397, B : 487
+A : 7214, B : 3364
 ------------------------------------------------
 Player A : Random (50%, 50%), Player B : Hard Forgiver
-A : 119, B : 584
+A : 1060, B : 5835
 ------------------------------------------------
 Player A : Random (50%, 50%), Player B : Per Nasty
-A : 337, B : 492
+A : 3331, B : 4976
 ------------------------------------------------
 Player A : Random (50%, 50%), Player B : Downing
-A : 328, B : 508
+A : 4303, B : 4518
 ------------------------------------------------
 Player A : Random (50%, 50%), Player B : Modified Downing
-A : 441, B : 451
-------------------------------------------------
-Player A : Random (90%, 10%), Player B : Random (10%, 90%)
-A : 878, B : 88
+A : 4844, B : 4489
 ------------------------------------------------
 Player A : Random (90%, 10%), Player B : Tit for 2 Tat
-A : 394, B : 249
+A : 3135, B : 2325
 ------------------------------------------------
 Player A : Random (90%, 10%), Player B : Friedman
-A : 190, B : 265
+A : 1789, B : 2859
+------------------------------------------------
+Player A : Random (90%, 10%), Player B : All D
+A : 1782, B : 2872
 ------------------------------------------------
 Player A : Random (90%, 10%), Player B : All C
-A : 962, B : 57
+A : 9658, B : 513
 ------------------------------------------------
 Player A : Random (90%, 10%), Player B : Tester
-A : 283, B : 278
+A : 2571, B : 2566
 ------------------------------------------------
 Player A : Random (90%, 10%), Player B : Joss
-A : 255, B : 255
+A : 2637, B : 2762
 ------------------------------------------------
 Player A : Random (90%, 10%), Player B : Alternative
-A : 575, B : 155
+A : 5698, B : 1673
 ------------------------------------------------
 Player A : Random (90%, 10%), Player B : Pavlov
-A : 578, B : 168
+A : 5706, B : 1701
 ------------------------------------------------
 Player A : Random (90%, 10%), Player B : Mistrust
-A : 281, B : 281
+A : 2591, B : 2591
 ------------------------------------------------
 Player A : Random (90%, 10%), Player B : Soft Major
-A : 179, B : 299
+A : 1815, B : 2755
 ------------------------------------------------
 Player A : Random (90%, 10%), Player B : Hard Forgiver
-A : 189, B : 274
+A : 1821, B : 2746
 ------------------------------------------------
 Player A : Random (90%, 10%), Player B : Per Nasty
-A : 445, B : 195
+A : 4427, B : 2017
 ------------------------------------------------
 Player A : Random (90%, 10%), Player B : Downing
-A : 283, B : 248
+A : 2569, B : 2569
 ------------------------------------------------
 Player A : Random (90%, 10%), Player B : Modified Downing
-A : 233, B : 243
-------------------------------------------------
-Player A : Random (10%, 90%), Player B : Tit for 2 Tat
-A : 655, B : 510
-------------------------------------------------
-Player A : Random (10%, 90%), Player B : Friedman
-A : 41, B : 891
-------------------------------------------------
-Player A : Random (10%, 90%), Player B : All C
-A : 646, B : 531
-------------------------------------------------
-Player A : Random (10%, 90%), Player B : Tester
-A : 329, B : 734
-------------------------------------------------
-Player A : Random (10%, 90%), Player B : Joss
-A : 549, B : 594
-------------------------------------------------
-Player A : Random (10%, 90%), Player B : Alternative
-A : 330, B : 735
-------------------------------------------------
-Player A : Random (10%, 90%), Player B : Pavlov
-A : 266, B : 781
-------------------------------------------------
-Player A : Random (10%, 90%), Player B : Mistrust
-A : 573, B : 578
-------------------------------------------------
-Player A : Random (10%, 90%), Player B : Soft Major
-A : 644, B : 534
-------------------------------------------------
-Player A : Random (10%, 90%), Player B : Hard Forgiver
-A : 129, B : 839
-------------------------------------------------
-Player A : Random (10%, 90%), Player B : Per Nasty
-A : 224, B : 789
-------------------------------------------------
-Player A : Random (10%, 90%), Player B : Downing
-A : 576, B : 586
-------------------------------------------------
-Player A : Random (10%, 90%), Player B : Modified Downing
-A : 606, B : 546
+A : 2678, B : 2573
 ------------------------------------------------
 Player A : Tit for 2 Tat, Player B : Friedman
-A : 600, B : 600
+A : 6000, B : 6000
+------------------------------------------------
+Player A : Tit for 2 Tat, Player B : All D
+A : 1998, B : 2008
 ------------------------------------------------
 Player A : Tit for 2 Tat, Player B : All C
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Tit for 2 Tat, Player B : Tester
-A : 302, B : 797
+A : 3002, B : 7997
 ------------------------------------------------
 Player A : Tit for 2 Tat, Player B : Joss
-A : 341, B : 391
+A : 4440, B : 5150
 ------------------------------------------------
 Player A : Tit for 2 Tat, Player B : Alternative
-A : 300, B : 800
+A : 3000, B : 8000
 ------------------------------------------------
 Player A : Tit for 2 Tat, Player B : Pavlov
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Tit for 2 Tat, Player B : Mistrust
-A : 597, B : 602
+A : 5997, B : 6002
 ------------------------------------------------
 Player A : Tit for 2 Tat, Player B : Soft Major
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Tit for 2 Tat, Player B : Hard Forgiver
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Tit for 2 Tat, Player B : Per Nasty
-A : 330, B : 670
+A : 3330, B : 6670
 ------------------------------------------------
 Player A : Tit for 2 Tat, Player B : Downing
-A : 597, B : 602
+A : 5997, B : 6002
 ------------------------------------------------
 Player A : Tit for 2 Tat, Player B : Modified Downing
-A : 600, B : 600
+A : 6000, B : 6000
+------------------------------------------------
+Player A : Friedman, Player B : All D
+A : 1999, B : 2004
 ------------------------------------------------
 Player A : Friedman, Player B : All C
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Friedman, Player B : Tester
-A : 203, B : 203
+A : 2003, B : 2003
 ------------------------------------------------
 Player A : Friedman, Player B : Joss
-A : 277, B : 282
+A : 2011, B : 2011
 ------------------------------------------------
 Player A : Friedman, Player B : Alternative
-A : 597, B : 107
+A : 5997, B : 1007
 ------------------------------------------------
 Player A : Friedman, Player B : Pavlov
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Friedman, Player B : Mistrust
-A : 203, B : 203
+A : 2003, B : 2003
 ------------------------------------------------
 Player A : Friedman, Player B : Soft Major
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Friedman, Player B : Hard Forgiver
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Friedman, Player B : Per Nasty
-A : 463, B : 138
+A : 4663, B : 1338
 ------------------------------------------------
 Player A : Friedman, Player B : Downing
-A : 219, B : 199
+A : 2039, B : 1994
 ------------------------------------------------
 Player A : Friedman, Player B : Modified Downing
-A : 600, B : 600
+A : 6000, B : 6000
+------------------------------------------------
+Player A : All D, Player B : All C
+A : 10000, B : 0
+------------------------------------------------
+Player A : All D, Player B : Tester
+A : 2004, B : 1999
+------------------------------------------------
+Player A : All D, Player B : Joss
+A : 2004, B : 1999
+------------------------------------------------
+Player A : All D, Player B : Alternative
+A : 6000, B : 1000
+------------------------------------------------
+Player A : All D, Player B : Pavlov
+A : 6000, B : 1000
+------------------------------------------------
+Player A : All D, Player B : Mistrust
+A : 2000, B : 2000
+------------------------------------------------
+Player A : All D, Player B : Soft Major
+A : 2004, B : 1999
+------------------------------------------------
+Player A : All D, Player B : Hard Forgiver
+A : 2008, B : 1998
+------------------------------------------------
+Player A : All D, Player B : Per Nasty
+A : 4664, B : 1334
+------------------------------------------------
+Player A : All D, Player B : Downing
+A : 2008, B : 1998
+------------------------------------------------
+Player A : All D, Player B : Modified Downing
+A : 2012, B : 1997
 ------------------------------------------------
 Player A : All C, Player B : Tester
-A : 300, B : 800
+A : 3000, B : 8000
 ------------------------------------------------
 Player A : All C, Player B : Joss
-A : 537, B : 642
+A : 5421, B : 6386
 ------------------------------------------------
 Player A : All C, Player B : Alternative
-A : 300, B : 800
+A : 3000, B : 8000
 ------------------------------------------------
 Player A : All C, Player B : Pavlov
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : All C, Player B : Mistrust
-A : 597, B : 602
+A : 5997, B : 6002
 ------------------------------------------------
 Player A : All C, Player B : Soft Major
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : All C, Player B : Hard Forgiver
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : All C, Player B : Per Nasty
-A : 198, B : 868
+A : 1998, B : 8668
 ------------------------------------------------
 Player A : All C, Player B : Downing
-A : 597, B : 602
+A : 5997, B : 6002
 ------------------------------------------------
 Player A : All C, Player B : Modified Downing
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Tester, Player B : Joss
-A : 242, B : 242
+A : 2006, B : 2006
 ------------------------------------------------
 Player A : Tester, Player B : Alternative
-A : 499, B : 499
+A : 4999, B : 4999
 ------------------------------------------------
 Player A : Tester, Player B : Pavlov
-A : 600, B : 595
+A : 6000, B : 5995
 ------------------------------------------------
 Player A : Tester, Player B : Mistrust
-A : 497, B : 497
+A : 4997, B : 4997
 ------------------------------------------------
 Player A : Tester, Player B : Soft Major
-A : 203, B : 203
+A : 2003, B : 2003
 ------------------------------------------------
 Player A : Tester, Player B : Hard Forgiver
-A : 115, B : 595
+A : 1015, B : 5995
 ------------------------------------------------
 Player A : Tester, Player B : Per Nasty
-A : 396, B : 401
+A : 3996, B : 4001
 ------------------------------------------------
 Player A : Tester, Player B : Downing
-A : 281, B : 286
+A : 3988, B : 3993
 ------------------------------------------------
 Player A : Tester, Player B : Modified Downing
-A : 289, B : 289
+A : 3275, B : 3275
 ------------------------------------------------
 Player A : Joss, Player B : Alternative
-A : 504, B : 479
+A : 5091, B : 4631
 ------------------------------------------------
 Player A : Joss, Player B : Pavlov
-A : 420, B : 400
+A : 4128, B : 3818
 ------------------------------------------------
 Player A : Joss, Player B : Mistrust
-A : 218, B : 218
+A : 2006, B : 2006
 ------------------------------------------------
 Player A : Joss, Player B : Soft Major
-A : 646, B : 531
+A : 6400, B : 5400
 ------------------------------------------------
 Player A : Joss, Player B : Hard Forgiver
-A : 247, B : 242
+A : 2008, B : 2003
 ------------------------------------------------
 Player A : Joss, Player B : Per Nasty
-A : 402, B : 382
+A : 4079, B : 3674
 ------------------------------------------------
 Player A : Joss, Player B : Downing
-A : 374, B : 349
+A : 3654, B : 3389
 ------------------------------------------------
 Player A : Joss, Player B : Modified Downing
-A : 540, B : 475
+A : 4826, B : 4346
 ------------------------------------------------
 Player A : Alternative, Player B : Pavlov
-A : 450, B : 450
+A : 4500, B : 4500
 ------------------------------------------------
 Player A : Alternative, Player B : Mistrust
-A : 500, B : 500
+A : 5000, B : 5000
 ------------------------------------------------
 Player A : Alternative, Player B : Soft Major
-A : 800, B : 300
+A : 8000, B : 3000
 ------------------------------------------------
 Player A : Alternative, Player B : Hard Forgiver
-A : 111, B : 596
+A : 1011, B : 5996
 ------------------------------------------------
 Player A : Alternative, Player B : Per Nasty
-A : 331, B : 501
+A : 3331, B : 5001
 ------------------------------------------------
 Player A : Alternative, Player B : Downing
-A : 288, B : 553
+A : 3028, B : 5493
 ------------------------------------------------
 Player A : Alternative, Player B : Modified Downing
-A : 616, B : 346
+A : 6008, B : 3498
 ------------------------------------------------
 Player A : Pavlov, Player B : Mistrust
-A : 401, B : 401
+A : 4001, B : 4001
 ------------------------------------------------
 Player A : Pavlov, Player B : Soft Major
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Pavlov, Player B : Hard Forgiver
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Pavlov, Player B : Per Nasty
-A : 265, B : 600
+A : 2665, B : 6000
 ------------------------------------------------
 Player A : Pavlov, Player B : Downing
-A : 275, B : 525
+A : 1473, B : 5798
 ------------------------------------------------
 Player A : Pavlov, Player B : Modified Downing
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Mistrust, Player B : Soft Major
-A : 500, B : 500
+A : 5000, B : 5000
 ------------------------------------------------
 Player A : Mistrust, Player B : Hard Forgiver
-A : 602, B : 597
+A : 6002, B : 5997
 ------------------------------------------------
 Player A : Mistrust, Player B : Per Nasty
-A : 398, B : 398
+A : 3998, B : 3998
 ------------------------------------------------
 Player A : Mistrust, Player B : Downing
-A : 203, B : 203
+A : 2024, B : 2024
 ------------------------------------------------
 Player A : Mistrust, Player B : Modified Downing
-A : 467, B : 462
+A : 4864, B : 4859
 ------------------------------------------------
 Player A : Soft Major, Player B : Hard Forgiver
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Soft Major, Player B : Per Nasty
-A : 463, B : 138
+A : 4663, B : 1338
 ------------------------------------------------
 Player A : Soft Major, Player B : Downing
-A : 245, B : 200
+A : 2049, B : 1999
 ------------------------------------------------
 Player A : Soft Major, Player B : Modified Downing
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Hard Forgiver, Player B : Per Nasty
-A : 462, B : 142
+A : 4662, B : 1342
 ------------------------------------------------
 Player A : Hard Forgiver, Player B : Downing
-A : 597, B : 602
+A : 5997, B : 6002
 ------------------------------------------------
 Player A : Hard Forgiver, Player B : Modified Downing
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Per Nasty, Player B : Downing
-A : 385, B : 375
+A : 3635, B : 3830
 ------------------------------------------------
 Player A : Per Nasty, Player B : Modified Downing
-A : 356, B : 381
+A : 3861, B : 3771
 ------------------------------------------------
 Player A : Downing, Player B : Modified Downing
-A : 387, B : 407
+A : 5768, B : 5803
 ------------------------------------------------
-1. Hard Forgiver 561
-2. Pavlov 498
-3. Tit for Tat 497
-4. Friedman 490
-5. Modified Downing 487
-6. Tit for 2 Tat 486
-7. Soft Major 485
-8. Alternative 478
-9. All C 474
-10. Mistrust 437
-11. Tester 429
-12. Per Nasty 428
-13. Random (50%, 50%) 419
-14. Downing 412
-15. Random (10%, 90%) 409
-16. Random (90%, 10%) 409
-17. Joss 402
+1. Hard Forgiver 5201
+2. Modified Downing 4788
+3. Tit for Tat 4753
+4. Tit for 2 Tat 4738
+5. Soft Major 4514
+6. Pavlov 4481
+7. Friedman 4477
+8. All C 4434
+9. Alternative 4352
+10. Mistrust 4124
+11. Downing 4081
+12. Random (50%, 50%) 4075
+13. Tester 4019
+14. Per Nasty 3865
+15. Joss 3705
+16. Random (90%, 10%) 3567
+17. All D 3469
 =======================================================================
 Left Strategy : 16
-Tit for Tat Random (50%, 50%) Random (90%, 10%) Random (10%, 90%) Tit for 2 Tat Friedman All C Tester Alternative Pavlov Mistrust Soft Major Hard Forgiver Per Nasty Downing Modified Downing 
+Tit for Tat Random (50%, 50%) Random (90%, 10%) Tit for 2 Tat Friedman All C Tester Joss Alternative Pavlov Mistrust Soft Major Hard Forgiver Per Nasty Downing Modified Downing 
 
 Player A : Tit for Tat, Player B : Random (50%, 50%)
-A : 462, B : 462
+A : 4576, B : 4576
 ------------------------------------------------
 Player A : Tit for Tat, Player B : Random (90%, 10%)
-A : 255, B : 255
-------------------------------------------------
-Player A : Tit for Tat, Player B : Random (10%, 90%)
-A : 579, B : 579
+A : 2577, B : 2582
 ------------------------------------------------
 Player A : Tit for Tat, Player B : Tit for 2 Tat
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Tit for Tat, Player B : Friedman
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Tit for Tat, Player B : All C
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Tit for Tat, Player B : Tester
-A : 496, B : 501
+A : 4996, B : 5001
+------------------------------------------------
+Player A : Tit for Tat, Player B : Joss
+A : 2043, B : 2048
 ------------------------------------------------
 Player A : Tit for Tat, Player B : Alternative
-A : 498, B : 503
+A : 4998, B : 5003
 ------------------------------------------------
 Player A : Tit for Tat, Player B : Pavlov
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Tit for Tat, Player B : Mistrust
-A : 500, B : 500
+A : 5000, B : 5000
 ------------------------------------------------
 Player A : Tit for Tat, Player B : Soft Major
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Tit for Tat, Player B : Hard Forgiver
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Tit for Tat, Player B : Per Nasty
-A : 397, B : 402
+A : 3997, B : 4002
 ------------------------------------------------
 Player A : Tit for Tat, Player B : Downing
-A : 394, B : 394
+A : 3094, B : 3099
 ------------------------------------------------
 Player A : Tit for Tat, Player B : Modified Downing
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Random (50%, 50%), Player B : Random (90%, 10%)
-A : 139, B : 574
-------------------------------------------------
-Player A : Random (50%, 50%), Player B : Random (10%, 90%)
-A : 723, B : 328
+A : 1662, B : 5462
 ------------------------------------------------
 Player A : Random (50%, 50%), Player B : Tit for 2 Tat
-A : 617, B : 372
+A : 6243, B : 3763
 ------------------------------------------------
 Player A : Random (50%, 50%), Player B : Friedman
-A : 97, B : 647
+A : 1001, B : 6041
 ------------------------------------------------
 Player A : Random (50%, 50%), Player B : All C
-A : 790, B : 315
+A : 7980, B : 3030
 ------------------------------------------------
 Player A : Random (50%, 50%), Player B : Tester
-A : 459, B : 454
+A : 4443, B : 4648
+------------------------------------------------
+Player A : Random (50%, 50%), Player B : Joss
+A : 4179, B : 4549
 ------------------------------------------------
 Player A : Random (50%, 50%), Player B : Alternative
-A : 440, B : 460
+A : 4480, B : 4565
 ------------------------------------------------
 Player A : Random (50%, 50%), Player B : Pavlov
-A : 458, B : 403
+A : 4467, B : 4572
 ------------------------------------------------
 Player A : Random (50%, 50%), Player B : Mistrust
-A : 430, B : 435
+A : 4520, B : 4520
 ------------------------------------------------
 Player A : Random (50%, 50%), Player B : Soft Major
-A : 745, B : 350
+A : 6528, B : 3673
 ------------------------------------------------
 Player A : Random (50%, 50%), Player B : Hard Forgiver
-A : 108, B : 598
+A : 1022, B : 5962
 ------------------------------------------------
 Player A : Random (50%, 50%), Player B : Per Nasty
-A : 323, B : 528
+A : 3343, B : 5048
 ------------------------------------------------
 Player A : Random (50%, 50%), Player B : Downing
-A : 391, B : 411
+A : 4412, B : 4577
 ------------------------------------------------
 Player A : Random (50%, 50%), Player B : Modified Downing
-A : 458, B : 438
-------------------------------------------------
-Player A : Random (90%, 10%), Player B : Random (10%, 90%)
-A : 880, B : 85
+A : 4488, B : 4358
 ------------------------------------------------
 Player A : Random (90%, 10%), Player B : Tit for 2 Tat
-A : 322, B : 232
+A : 3300, B : 2390
 ------------------------------------------------
 Player A : Random (90%, 10%), Player B : Friedman
-A : 179, B : 309
+A : 1804, B : 2799
 ------------------------------------------------
 Player A : Random (90%, 10%), Player B : All C
-A : 958, B : 63
+A : 9616, B : 576
 ------------------------------------------------
 Player A : Random (90%, 10%), Player B : Tester
-A : 270, B : 265
+A : 5679, B : 1719
+------------------------------------------------
+Player A : Random (90%, 10%), Player B : Joss
+A : 2536, B : 2631
 ------------------------------------------------
 Player A : Random (90%, 10%), Player B : Alternative
-A : 567, B : 182
+A : 5681, B : 1711
 ------------------------------------------------
 Player A : Random (90%, 10%), Player B : Pavlov
-A : 569, B : 174
+A : 5655, B : 1740
 ------------------------------------------------
 Player A : Random (90%, 10%), Player B : Mistrust
-A : 259, B : 259
+A : 2519, B : 2519
 ------------------------------------------------
 Player A : Random (90%, 10%), Player B : Soft Major
-A : 189, B : 259
+A : 1799, B : 2819
 ------------------------------------------------
 Player A : Random (90%, 10%), Player B : Hard Forgiver
-A : 196, B : 246
+A : 1819, B : 2749
 ------------------------------------------------
 Player A : Random (90%, 10%), Player B : Per Nasty
-A : 426, B : 231
+A : 4426, B : 2016
 ------------------------------------------------
 Player A : Random (90%, 10%), Player B : Downing
-A : 249, B : 259
+A : 2561, B : 2511
 ------------------------------------------------
 Player A : Random (90%, 10%), Player B : Modified Downing
-A : 293, B : 238
-------------------------------------------------
-Player A : Random (10%, 90%), Player B : Tit for 2 Tat
-A : 639, B : 534
-------------------------------------------------
-Player A : Random (10%, 90%), Player B : Friedman
-A : 60, B : 885
-------------------------------------------------
-Player A : Random (10%, 90%), Player B : All C
-A : 646, B : 531
-------------------------------------------------
-Player A : Random (10%, 90%), Player B : Tester
-A : 326, B : 731
-------------------------------------------------
-Player A : Random (10%, 90%), Player B : Alternative
-A : 321, B : 746
-------------------------------------------------
-Player A : Random (10%, 90%), Player B : Pavlov
-A : 221, B : 796
-------------------------------------------------
-Player A : Random (10%, 90%), Player B : Mistrust
-A : 577, B : 582
-------------------------------------------------
-Player A : Random (10%, 90%), Player B : Soft Major
-A : 623, B : 563
-------------------------------------------------
-Player A : Random (10%, 90%), Player B : Hard Forgiver
-A : 70, B : 860
-------------------------------------------------
-Player A : Random (10%, 90%), Player B : Per Nasty
-A : 227, B : 782
-------------------------------------------------
-Player A : Random (10%, 90%), Player B : Downing
-A : 585, B : 560
-------------------------------------------------
-Player A : Random (10%, 90%), Player B : Modified Downing
-A : 594, B : 574
+A : 2479, B : 2489
 ------------------------------------------------
 Player A : Tit for 2 Tat, Player B : Friedman
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Tit for 2 Tat, Player B : All C
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Tit for 2 Tat, Player B : Tester
-A : 302, B : 797
+A : 3002, B : 7997
+------------------------------------------------
+Player A : Tit for 2 Tat, Player B : Joss
+A : 2851, B : 3091
 ------------------------------------------------
 Player A : Tit for 2 Tat, Player B : Alternative
-A : 300, B : 800
+A : 3000, B : 8000
 ------------------------------------------------
 Player A : Tit for 2 Tat, Player B : Pavlov
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Tit for 2 Tat, Player B : Mistrust
-A : 597, B : 602
+A : 5997, B : 6002
 ------------------------------------------------
 Player A : Tit for 2 Tat, Player B : Soft Major
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Tit for 2 Tat, Player B : Hard Forgiver
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Tit for 2 Tat, Player B : Per Nasty
-A : 330, B : 670
+A : 3330, B : 6670
 ------------------------------------------------
 Player A : Tit for 2 Tat, Player B : Downing
-A : 597, B : 602
+A : 5997, B : 6002
 ------------------------------------------------
 Player A : Tit for 2 Tat, Player B : Modified Downing
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Friedman, Player B : All C
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Friedman, Player B : Tester
-A : 203, B : 203
+A : 2003, B : 2003
+------------------------------------------------
+Player A : Friedman, Player B : Joss
+A : 2005, B : 2005
 ------------------------------------------------
 Player A : Friedman, Player B : Alternative
-A : 597, B : 107
+A : 5997, B : 1007
 ------------------------------------------------
 Player A : Friedman, Player B : Pavlov
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Friedman, Player B : Mistrust
-A : 203, B : 203
+A : 2003, B : 2003
 ------------------------------------------------
 Player A : Friedman, Player B : Soft Major
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Friedman, Player B : Hard Forgiver
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Friedman, Player B : Per Nasty
-A : 463, B : 138
+A : 4663, B : 1338
 ------------------------------------------------
 Player A : Friedman, Player B : Downing
-A : 231, B : 196
+A : 2047, B : 1992
 ------------------------------------------------
 Player A : Friedman, Player B : Modified Downing
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : All C, Player B : Tester
-A : 300, B : 800
+A : 3000, B : 8000
+------------------------------------------------
+Player A : All C, Player B : Joss
+A : 5415, B : 6390
 ------------------------------------------------
 Player A : All C, Player B : Alternative
-A : 300, B : 800
+A : 3000, B : 8000
 ------------------------------------------------
 Player A : All C, Player B : Pavlov
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : All C, Player B : Mistrust
-A : 597, B : 602
+A : 5997, B : 6002
 ------------------------------------------------
 Player A : All C, Player B : Soft Major
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : All C, Player B : Hard Forgiver
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : All C, Player B : Per Nasty
-A : 198, B : 868
+A : 1998, B : 8668
 ------------------------------------------------
 Player A : All C, Player B : Downing
-A : 597, B : 602
+A : 5997, B : 6002
 ------------------------------------------------
 Player A : All C, Player B : Modified Downing
-A : 600, B : 600
+A : 6000, B : 6000
+------------------------------------------------
+Player A : Tester, Player B : Joss
+A : 2021, B : 2021
 ------------------------------------------------
 Player A : Tester, Player B : Alternative
-A : 499, B : 499
+A : 4999, B : 4999
 ------------------------------------------------
 Player A : Tester, Player B : Pavlov
-A : 600, B : 595
+A : 6000, B : 5995
 ------------------------------------------------
 Player A : Tester, Player B : Mistrust
-A : 497, B : 497
+A : 4997, B : 4997
 ------------------------------------------------
 Player A : Tester, Player B : Soft Major
-A : 203, B : 203
+A : 2003, B : 2003
 ------------------------------------------------
 Player A : Tester, Player B : Hard Forgiver
-A : 115, B : 595
+A : 1015, B : 5995
 ------------------------------------------------
 Player A : Tester, Player B : Per Nasty
-A : 396, B : 401
+A : 3996, B : 4001
 ------------------------------------------------
 Player A : Tester, Player B : Downing
-A : 309, B : 309
+A : 4064, B : 4064
 ------------------------------------------------
 Player A : Tester, Player B : Modified Downing
-A : 325, B : 325
+A : 2417, B : 2417
+------------------------------------------------
+Player A : Joss, Player B : Alternative
+A : 5113, B : 4543
+------------------------------------------------
+Player A : Joss, Player B : Pavlov
+A : 4154, B : 3774
+------------------------------------------------
+Player A : Joss, Player B : Mistrust
+A : 2063, B : 2063
+------------------------------------------------
+Player A : Joss, Player B : Soft Major
+A : 6422, B : 5367
+------------------------------------------------
+Player A : Joss, Player B : Hard Forgiver
+A : 2016, B : 2016
+------------------------------------------------
+Player A : Joss, Player B : Per Nasty
+A : 4071, B : 3706
+------------------------------------------------
+Player A : Joss, Player B : Downing
+A : 3983, B : 3648
+------------------------------------------------
+Player A : Joss, Player B : Modified Downing
+A : 4861, B : 4346
 ------------------------------------------------
 Player A : Alternative, Player B : Pavlov
-A : 450, B : 450
+A : 4500, B : 4500
 ------------------------------------------------
 Player A : Alternative, Player B : Mistrust
-A : 500, B : 500
+A : 5000, B : 5000
 ------------------------------------------------
 Player A : Alternative, Player B : Soft Major
-A : 800, B : 300
+A : 8000, B : 3000
 ------------------------------------------------
 Player A : Alternative, Player B : Hard Forgiver
-A : 111, B : 596
+A : 1011, B : 5996
 ------------------------------------------------
 Player A : Alternative, Player B : Per Nasty
-A : 331, B : 501
+A : 3331, B : 5001
 ------------------------------------------------
 Player A : Alternative, Player B : Downing
-A : 308, B : 548
+A : 3040, B : 5490
 ------------------------------------------------
 Player A : Alternative, Player B : Modified Downing
-A : 588, B : 353
+A : 6060, B : 3485
 ------------------------------------------------
 Player A : Pavlov, Player B : Mistrust
-A : 401, B : 401
+A : 4001, B : 4001
 ------------------------------------------------
 Player A : Pavlov, Player B : Soft Major
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Pavlov, Player B : Hard Forgiver
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Pavlov, Player B : Per Nasty
-A : 265, B : 600
+A : 2665, B : 6000
 ------------------------------------------------
 Player A : Pavlov, Player B : Downing
-A : 244, B : 539
+A : 1466, B : 5801
 ------------------------------------------------
 Player A : Pavlov, Player B : Modified Downing
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Mistrust, Player B : Soft Major
-A : 500, B : 500
+A : 5000, B : 5000
 ------------------------------------------------
 Player A : Mistrust, Player B : Hard Forgiver
-A : 602, B : 597
+A : 6002, B : 5997
 ------------------------------------------------
 Player A : Mistrust, Player B : Per Nasty
-A : 398, B : 398
+A : 3998, B : 3998
 ------------------------------------------------
 Player A : Mistrust, Player B : Downing
-A : 200, B : 200
+A : 2030, B : 2030
 ------------------------------------------------
 Player A : Mistrust, Player B : Modified Downing
-A : 495, B : 495
+A : 5149, B : 5149
 ------------------------------------------------
 Player A : Soft Major, Player B : Hard Forgiver
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Soft Major, Player B : Per Nasty
-A : 463, B : 138
+A : 4663, B : 1338
 ------------------------------------------------
 Player A : Soft Major, Player B : Downing
-A : 252, B : 202
+A : 2046, B : 1996
 ------------------------------------------------
 Player A : Soft Major, Player B : Modified Downing
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Hard Forgiver, Player B : Per Nasty
-A : 462, B : 142
+A : 4662, B : 1342
 ------------------------------------------------
 Player A : Hard Forgiver, Player B : Downing
-A : 597, B : 602
+A : 5997, B : 6002
 ------------------------------------------------
 Player A : Hard Forgiver, Player B : Modified Downing
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Per Nasty, Player B : Downing
-A : 392, B : 372
+A : 3688, B : 3818
 ------------------------------------------------
 Player A : Per Nasty, Player B : Modified Downing
-A : 367, B : 372
+A : 3886, B : 3731
 ------------------------------------------------
 Player A : Downing, Player B : Modified Downing
-A : 408, B : 383
+A : 5185, B : 5295
 ------------------------------------------------
-1. Hard Forgiver 583
-2. Tit for Tat 518
-3. Friedman 515
-4. Pavlov 501
-5. Tit for 2 Tat 497
-6. Modified Downing 491
-7. Alternative 479
-8. All C 473
-9. Soft Major 472
-10. Mistrust 451
-11. Tester 446
-12. Random (50%, 50%) 442
-13. Per Nasty 437
-14. Downing 413
-15. Random (90%, 10%) 412
-16. Random (10%, 90%) 392
+1. Hard Forgiver 5424
+2. Tit for Tat 4885
+3. Modified Downing 4884
+4. Tit for 2 Tat 4822
+5. All C 4734
+6. Pavlov 4714
+7. Soft Major 4704
+8. Friedman 4637
+9. Alternative 4584
+10. Mistrust 4285
+11. Random (50%, 50%) 4222
+12. Downing 4147
+13. Tester 4058
+14. Per Nasty 4046
+15. Random (90%, 10%) 3861
+16. Joss 3694
 =======================================================================
 Left Strategy : 15
 Tit for Tat Random (50%, 50%) Random (90%, 10%) Tit for 2 Tat Friedman All C Tester Alternative Pavlov Mistrust Soft Major Hard Forgiver Per Nasty Downing Modified Downing 
 
 Player A : Tit for Tat, Player B : Random (50%, 50%)
-A : 449, B : 449
+A : 4545, B : 4550
 ------------------------------------------------
 Player A : Tit for Tat, Player B : Random (90%, 10%)
-A : 251, B : 256
+A : 2639, B : 2644
 ------------------------------------------------
 Player A : Tit for Tat, Player B : Tit for 2 Tat
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Tit for Tat, Player B : Friedman
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Tit for Tat, Player B : All C
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Tit for Tat, Player B : Tester
-A : 496, B : 501
+A : 4996, B : 5001
 ------------------------------------------------
 Player A : Tit for Tat, Player B : Alternative
-A : 498, B : 503
+A : 4998, B : 5003
 ------------------------------------------------
 Player A : Tit for Tat, Player B : Pavlov
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Tit for Tat, Player B : Mistrust
-A : 500, B : 500
+A : 5000, B : 5000
 ------------------------------------------------
 Player A : Tit for Tat, Player B : Soft Major
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Tit for Tat, Player B : Hard Forgiver
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Tit for Tat, Player B : Per Nasty
-A : 397, B : 402
+A : 3997, B : 4002
 ------------------------------------------------
 Player A : Tit for Tat, Player B : Downing
-A : 387, B : 392
+A : 4217, B : 4222
 ------------------------------------------------
 Player A : Tit for Tat, Player B : Modified Downing
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Random (50%, 50%), Player B : Random (90%, 10%)
-A : 150, B : 600
+A : 1578, B : 5568
 ------------------------------------------------
 Player A : Random (50%, 50%), Player B : Tit for 2 Tat
-A : 584, B : 354
+A : 6220, B : 3765
 ------------------------------------------------
 Player A : Random (50%, 50%), Player B : Friedman
-A : 99, B : 619
+A : 1005, B : 6005
 ------------------------------------------------
 Player A : Random (50%, 50%), Player B : All C
-A : 782, B : 327
+A : 7976, B : 3036
 ------------------------------------------------
 Player A : Random (50%, 50%), Player B : Tester
-A : 447, B : 442
+A : 4496, B : 4476
 ------------------------------------------------
 Player A : Random (50%, 50%), Player B : Alternative
-A : 454, B : 444
+A : 4513, B : 4423
 ------------------------------------------------
 Player A : Random (50%, 50%), Player B : Pavlov
-A : 447, B : 432
+A : 4469, B : 4524
 ------------------------------------------------
 Player A : Random (50%, 50%), Player B : Mistrust
-A : 444, B : 444
+A : 4503, B : 4508
 ------------------------------------------------
 Player A : Random (50%, 50%), Player B : Soft Major
-A : 189, B : 564
+A : 6741, B : 3611
 ------------------------------------------------
 Player A : Random (50%, 50%), Player B : Hard Forgiver
-A : 115, B : 570
+A : 1044, B : 5864
 ------------------------------------------------
 Player A : Random (50%, 50%), Player B : Per Nasty
-A : 338, B : 488
+A : 3344, B : 4939
 ------------------------------------------------
 Player A : Random (50%, 50%), Player B : Downing
-A : 383, B : 458
+A : 4593, B : 4538
 ------------------------------------------------
 Player A : Random (50%, 50%), Player B : Modified Downing
-A : 555, B : 440
+A : 4860, B : 4440
 ------------------------------------------------
 Player A : Random (90%, 10%), Player B : Tit for 2 Tat
-A : 289, B : 224
+A : 3376, B : 2396
 ------------------------------------------------
 Player A : Random (90%, 10%), Player B : Friedman
-A : 184, B : 279
+A : 1817, B : 2747
 ------------------------------------------------
 Player A : Random (90%, 10%), Player B : All C
-A : 942, B : 87
+A : 9550, B : 675
 ------------------------------------------------
 Player A : Random (90%, 10%), Player B : Tester
-A : 260, B : 255
+A : 2645, B : 2640
 ------------------------------------------------
 Player A : Random (90%, 10%), Player B : Alternative
-A : 561, B : 191
+A : 5720, B : 1655
 ------------------------------------------------
 Player A : Random (90%, 10%), Player B : Pavlov
-A : 572, B : 167
+A : 5754, B : 1614
 ------------------------------------------------
 Player A : Random (90%, 10%), Player B : Mistrust
-A : 248, B : 248
+A : 2646, B : 2646
 ------------------------------------------------
 Player A : Random (90%, 10%), Player B : Soft Major
-A : 192, B : 262
+A : 1797, B : 2842
 ------------------------------------------------
 Player A : Random (90%, 10%), Player B : Hard Forgiver
-A : 193, B : 258
+A : 1819, B : 2754
 ------------------------------------------------
 Player A : Random (90%, 10%), Player B : Per Nasty
-A : 430, B : 225
+A : 4401, B : 2011
 ------------------------------------------------
 Player A : Random (90%, 10%), Player B : Downing
-A : 246, B : 261
+A : 2612, B : 2657
 ------------------------------------------------
 Player A : Random (90%, 10%), Player B : Modified Downing
-A : 252, B : 272
+A : 2653, B : 2588
 ------------------------------------------------
 Player A : Tit for 2 Tat, Player B : Friedman
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Tit for 2 Tat, Player B : All C
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Tit for 2 Tat, Player B : Tester
-A : 302, B : 797
+A : 3002, B : 7997
 ------------------------------------------------
 Player A : Tit for 2 Tat, Player B : Alternative
-A : 300, B : 800
+A : 3000, B : 8000
 ------------------------------------------------
 Player A : Tit for 2 Tat, Player B : Pavlov
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Tit for 2 Tat, Player B : Mistrust
-A : 597, B : 602
+A : 5997, B : 6002
 ------------------------------------------------
 Player A : Tit for 2 Tat, Player B : Soft Major
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Tit for 2 Tat, Player B : Hard Forgiver
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Tit for 2 Tat, Player B : Per Nasty
-A : 330, B : 670
+A : 3330, B : 6670
 ------------------------------------------------
 Player A : Tit for 2 Tat, Player B : Downing
-A : 597, B : 602
+A : 5997, B : 6002
 ------------------------------------------------
 Player A : Tit for 2 Tat, Player B : Modified Downing
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Friedman, Player B : All C
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Friedman, Player B : Tester
-A : 203, B : 203
+A : 2003, B : 2003
 ------------------------------------------------
 Player A : Friedman, Player B : Alternative
-A : 597, B : 107
+A : 5997, B : 1007
 ------------------------------------------------
 Player A : Friedman, Player B : Pavlov
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Friedman, Player B : Mistrust
-A : 203, B : 203
+A : 2003, B : 2003
 ------------------------------------------------
 Player A : Friedman, Player B : Soft Major
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Friedman, Player B : Hard Forgiver
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Friedman, Player B : Per Nasty
-A : 463, B : 138
+A : 4663, B : 1338
 ------------------------------------------------
 Player A : Friedman, Player B : Downing
-A : 215, B : 200
+A : 2047, B : 1992
 ------------------------------------------------
 Player A : Friedman, Player B : Modified Downing
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : All C, Player B : Tester
-A : 300, B : 800
+A : 3000, B : 8000
 ------------------------------------------------
 Player A : All C, Player B : Alternative
-A : 300, B : 800
+A : 3000, B : 8000
 ------------------------------------------------
 Player A : All C, Player B : Pavlov
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : All C, Player B : Mistrust
-A : 597, B : 602
+A : 5997, B : 6002
 ------------------------------------------------
 Player A : All C, Player B : Soft Major
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : All C, Player B : Hard Forgiver
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : All C, Player B : Per Nasty
-A : 198, B : 868
+A : 1998, B : 8668
 ------------------------------------------------
 Player A : All C, Player B : Downing
-A : 597, B : 602
+A : 5997, B : 6002
 ------------------------------------------------
 Player A : All C, Player B : Modified Downing
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Tester, Player B : Alternative
-A : 499, B : 499
+A : 4999, B : 4999
 ------------------------------------------------
 Player A : Tester, Player B : Pavlov
-A : 600, B : 595
+A : 6000, B : 5995
 ------------------------------------------------
 Player A : Tester, Player B : Mistrust
-A : 497, B : 497
+A : 4997, B : 4997
 ------------------------------------------------
 Player A : Tester, Player B : Soft Major
-A : 203, B : 203
+A : 2003, B : 2003
 ------------------------------------------------
 Player A : Tester, Player B : Hard Forgiver
-A : 115, B : 595
+A : 1015, B : 5995
 ------------------------------------------------
 Player A : Tester, Player B : Per Nasty
-A : 396, B : 401
+A : 3996, B : 4001
 ------------------------------------------------
 Player A : Tester, Player B : Downing
-A : 241, B : 246
+A : 2296, B : 2301
 ------------------------------------------------
 Player A : Tester, Player B : Modified Downing
-A : 359, B : 359
+A : 2632, B : 2632
 ------------------------------------------------
 Player A : Alternative, Player B : Pavlov
-A : 450, B : 450
+A : 4500, B : 4500
 ------------------------------------------------
 Player A : Alternative, Player B : Mistrust
-A : 500, B : 500
+A : 5000, B : 5000
 ------------------------------------------------
 Player A : Alternative, Player B : Soft Major
-A : 800, B : 300
+A : 8000, B : 3000
 ------------------------------------------------
 Player A : Alternative, Player B : Hard Forgiver
-A : 111, B : 596
+A : 1011, B : 5996
 ------------------------------------------------
 Player A : Alternative, Player B : Per Nasty
-A : 331, B : 501
+A : 3331, B : 5001
 ------------------------------------------------
 Player A : Alternative, Player B : Downing
-A : 332, B : 542
+A : 2992, B : 5502
 ------------------------------------------------
 Player A : Alternative, Player B : Modified Downing
-A : 572, B : 357
+A : 5976, B : 3506
 ------------------------------------------------
 Player A : Pavlov, Player B : Mistrust
-A : 401, B : 401
+A : 4001, B : 4001
 ------------------------------------------------
 Player A : Pavlov, Player B : Soft Major
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Pavlov, Player B : Hard Forgiver
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Pavlov, Player B : Per Nasty
-A : 265, B : 600
+A : 2665, B : 6000
 ------------------------------------------------
 Player A : Pavlov, Player B : Downing
-A : 303, B : 513
+A : 1480, B : 5795
 ------------------------------------------------
 Player A : Pavlov, Player B : Modified Downing
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Mistrust, Player B : Soft Major
-A : 500, B : 500
+A : 5000, B : 5000
 ------------------------------------------------
 Player A : Mistrust, Player B : Hard Forgiver
-A : 602, B : 597
+A : 6002, B : 5997
 ------------------------------------------------
 Player A : Mistrust, Player B : Per Nasty
-A : 398, B : 398
+A : 3998, B : 3998
 ------------------------------------------------
 Player A : Mistrust, Player B : Downing
-A : 200, B : 200
+A : 2009, B : 2009
 ------------------------------------------------
 Player A : Mistrust, Player B : Modified Downing
-A : 527, B : 527
+A : 5660, B : 5655
 ------------------------------------------------
 Player A : Soft Major, Player B : Hard Forgiver
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Soft Major, Player B : Per Nasty
-A : 463, B : 138
+A : 4663, B : 1338
 ------------------------------------------------
 Player A : Soft Major, Player B : Downing
-A : 230, B : 200
+A : 2066, B : 1991
 ------------------------------------------------
 Player A : Soft Major, Player B : Modified Downing
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Hard Forgiver, Player B : Per Nasty
-A : 462, B : 142
+A : 4662, B : 1342
 ------------------------------------------------
 Player A : Hard Forgiver, Player B : Downing
-A : 597, B : 602
+A : 5997, B : 6002
 ------------------------------------------------
 Player A : Hard Forgiver, Player B : Modified Downing
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Per Nasty, Player B : Downing
-A : 385, B : 370
+A : 3837, B : 3757
 ------------------------------------------------
 Player A : Per Nasty, Player B : Modified Downing
-A : 368, B : 383
+A : 3720, B : 3775
 ------------------------------------------------
 Player A : Downing, Player B : Modified Downing
-A : 310, B : 360
+A : 2486, B : 2516
 ------------------------------------------------
-1. Hard Forgiver 562
-2. Tit for Tat 512
-3. Tit for 2 Tat 493
-4. Modified Downing 492
-5. Pavlov 486
-6. Friedman 484
-7. Soft Major 480
-8. All C 471
-9. Alternative 460
-10. Mistrust 444
-11. Tester 422
-12. Per Nasty 408
-13. Downing 392
-14. Random (50%, 50%) 388
-15. Random (90%, 10%) 373
+1. Hard Forgiver 5661
+2. Tit for Tat 5170
+3. Tit for 2 Tat 4963
+4. Friedman 4818
+5. Modified Downing 4793
+6. Pavlov 4769
+7. All C 4693
+8. Soft Major 4656
+9. Alternative 4564
+10. Mistrust 4487
+11. Random (50%, 50%) 4278
+12. Tester 4146
+13. Per Nasty 4061
+14. Downing 3946
+15. Random (90%, 10%) 3785
 =======================================================================
 Left Strategy : 14
 Tit for Tat Random (50%, 50%) Tit for 2 Tat Friedman All C Tester Alternative Pavlov Mistrust Soft Major Hard Forgiver Per Nasty Downing Modified Downing 
 
 Player A : Tit for Tat, Player B : Random (50%, 50%)
-A : 480, B : 485
+A : 4532, B : 4532
 ------------------------------------------------
 Player A : Tit for Tat, Player B : Tit for 2 Tat
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Tit for Tat, Player B : Friedman
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Tit for Tat, Player B : All C
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Tit for Tat, Player B : Tester
-A : 496, B : 501
+A : 4996, B : 5001
 ------------------------------------------------
 Player A : Tit for Tat, Player B : Alternative
-A : 498, B : 503
+A : 4998, B : 5003
 ------------------------------------------------
 Player A : Tit for Tat, Player B : Pavlov
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Tit for Tat, Player B : Mistrust
-A : 500, B : 500
+A : 5000, B : 5000
 ------------------------------------------------
 Player A : Tit for Tat, Player B : Soft Major
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Tit for Tat, Player B : Hard Forgiver
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Tit for Tat, Player B : Per Nasty
-A : 397, B : 402
+A : 3997, B : 4002
 ------------------------------------------------
 Player A : Tit for Tat, Player B : Downing
-A : 409, B : 414
+A : 3295, B : 3295
 ------------------------------------------------
 Player A : Tit for Tat, Player B : Modified Downing
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Random (50%, 50%), Player B : Tit for 2 Tat
-A : 620, B : 365
+A : 6264, B : 3789
 ------------------------------------------------
 Player A : Random (50%, 50%), Player B : Friedman
-A : 104, B : 609
+A : 969, B : 6139
 ------------------------------------------------
 Player A : Random (50%, 50%), Player B : All C
-A : 818, B : 273
+A : 8048, B : 2928
 ------------------------------------------------
 Player A : Random (50%, 50%), Player B : Tester
-A : 454, B : 449
+A : 4564, B : 4569
 ------------------------------------------------
 Player A : Random (50%, 50%), Player B : Alternative
-A : 445, B : 435
+A : 4463, B : 4548
 ------------------------------------------------
 Player A : Random (50%, 50%), Player B : Pavlov
-A : 467, B : 412
+A : 4598, B : 4368
 ------------------------------------------------
 Player A : Random (50%, 50%), Player B : Mistrust
-A : 439, B : 439
+A : 4500, B : 4500
 ------------------------------------------------
 Player A : Random (50%, 50%), Player B : Soft Major
-A : 131, B : 546
+A : 7681, B : 3171
 ------------------------------------------------
 Player A : Random (50%, 50%), Player B : Hard Forgiver
-A : 97, B : 637
+A : 1047, B : 5872
 ------------------------------------------------
 Player A : Random (50%, 50%), Player B : Per Nasty
-A : 340, B : 480
+A : 3334, B : 5044
 ------------------------------------------------
 Player A : Random (50%, 50%), Player B : Downing
-A : 403, B : 428
+A : 4304, B : 4534
 ------------------------------------------------
 Player A : Random (50%, 50%), Player B : Modified Downing
-A : 524, B : 419
+A : 4408, B : 4513
 ------------------------------------------------
 Player A : Tit for 2 Tat, Player B : Friedman
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Tit for 2 Tat, Player B : All C
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Tit for 2 Tat, Player B : Tester
-A : 302, B : 797
+A : 3002, B : 7997
 ------------------------------------------------
 Player A : Tit for 2 Tat, Player B : Alternative
-A : 300, B : 800
+A : 3000, B : 8000
 ------------------------------------------------
 Player A : Tit for 2 Tat, Player B : Pavlov
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Tit for 2 Tat, Player B : Mistrust
-A : 597, B : 602
+A : 5997, B : 6002
 ------------------------------------------------
 Player A : Tit for 2 Tat, Player B : Soft Major
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Tit for 2 Tat, Player B : Hard Forgiver
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Tit for 2 Tat, Player B : Per Nasty
-A : 330, B : 670
+A : 3330, B : 6670
 ------------------------------------------------
 Player A : Tit for 2 Tat, Player B : Downing
-A : 597, B : 602
+A : 5997, B : 6002
 ------------------------------------------------
 Player A : Tit for 2 Tat, Player B : Modified Downing
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Friedman, Player B : All C
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Friedman, Player B : Tester
-A : 203, B : 203
+A : 2003, B : 2003
 ------------------------------------------------
 Player A : Friedman, Player B : Alternative
-A : 597, B : 107
+A : 5997, B : 1007
 ------------------------------------------------
 Player A : Friedman, Player B : Pavlov
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Friedman, Player B : Mistrust
-A : 203, B : 203
+A : 2003, B : 2003
 ------------------------------------------------
 Player A : Friedman, Player B : Soft Major
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Friedman, Player B : Hard Forgiver
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Friedman, Player B : Per Nasty
-A : 463, B : 138
+A : 4663, B : 1338
 ------------------------------------------------
 Player A : Friedman, Player B : Downing
-A : 219, B : 199
+A : 2043, B : 1993
 ------------------------------------------------
 Player A : Friedman, Player B : Modified Downing
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : All C, Player B : Tester
-A : 300, B : 800
+A : 3000, B : 8000
 ------------------------------------------------
 Player A : All C, Player B : Alternative
-A : 300, B : 800
+A : 3000, B : 8000
 ------------------------------------------------
 Player A : All C, Player B : Pavlov
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : All C, Player B : Mistrust
-A : 597, B : 602
+A : 5997, B : 6002
 ------------------------------------------------
 Player A : All C, Player B : Soft Major
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : All C, Player B : Hard Forgiver
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : All C, Player B : Per Nasty
-A : 198, B : 868
+A : 1998, B : 8668
 ------------------------------------------------
 Player A : All C, Player B : Downing
-A : 597, B : 602
+A : 5997, B : 6002
 ------------------------------------------------
 Player A : All C, Player B : Modified Downing
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Tester, Player B : Alternative
-A : 499, B : 499
+A : 4999, B : 4999
 ------------------------------------------------
 Player A : Tester, Player B : Pavlov
-A : 600, B : 595
+A : 6000, B : 5995
 ------------------------------------------------
 Player A : Tester, Player B : Mistrust
-A : 497, B : 497
+A : 4997, B : 4997
 ------------------------------------------------
 Player A : Tester, Player B : Soft Major
-A : 203, B : 203
+A : 2003, B : 2003
 ------------------------------------------------
 Player A : Tester, Player B : Hard Forgiver
-A : 115, B : 595
+A : 1015, B : 5995
 ------------------------------------------------
 Player A : Tester, Player B : Per Nasty
-A : 396, B : 401
+A : 3996, B : 4001
 ------------------------------------------------
 Player A : Tester, Player B : Downing
-A : 322, B : 322
+A : 2568, B : 2573
 ------------------------------------------------
 Player A : Tester, Player B : Modified Downing
-A : 309, B : 309
+A : 2239, B : 2239
 ------------------------------------------------
 Player A : Alternative, Player B : Pavlov
-A : 450, B : 450
+A : 4500, B : 4500
 ------------------------------------------------
 Player A : Alternative, Player B : Mistrust
-A : 500, B : 500
+A : 5000, B : 5000
 ------------------------------------------------
 Player A : Alternative, Player B : Soft Major
-A : 800, B : 300
+A : 8000, B : 3000
 ------------------------------------------------
 Player A : Alternative, Player B : Hard Forgiver
-A : 111, B : 596
+A : 1011, B : 5996
 ------------------------------------------------
 Player A : Alternative, Player B : Per Nasty
-A : 331, B : 501
+A : 3331, B : 5001
 ------------------------------------------------
 Player A : Alternative, Player B : Downing
-A : 288, B : 553
+A : 2980, B : 5505
 ------------------------------------------------
 Player A : Alternative, Player B : Modified Downing
-A : 600, B : 350
+A : 6052, B : 3487
 ------------------------------------------------
 Player A : Pavlov, Player B : Mistrust
-A : 401, B : 401
+A : 4001, B : 4001
 ------------------------------------------------
 Player A : Pavlov, Player B : Soft Major
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Pavlov, Player B : Hard Forgiver
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Pavlov, Player B : Per Nasty
-A : 265, B : 600
+A : 2665, B : 6000
 ------------------------------------------------
 Player A : Pavlov, Player B : Downing
-A : 244, B : 539
+A : 1459, B : 5804
 ------------------------------------------------
 Player A : Pavlov, Player B : Modified Downing
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Mistrust, Player B : Soft Major
-A : 500, B : 500
+A : 5000, B : 5000
 ------------------------------------------------
 Player A : Mistrust, Player B : Hard Forgiver
-A : 602, B : 597
+A : 6002, B : 5997
 ------------------------------------------------
 Player A : Mistrust, Player B : Per Nasty
-A : 398, B : 398
+A : 3998, B : 3998
 ------------------------------------------------
 Player A : Mistrust, Player B : Downing
-A : 200, B : 200
+A : 2021, B : 2021
 ------------------------------------------------
 Player A : Mistrust, Player B : Modified Downing
-A : 472, B : 472
+A : 4816, B : 4811
 ------------------------------------------------
 Player A : Soft Major, Player B : Hard Forgiver
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Soft Major, Player B : Per Nasty
-A : 463, B : 138
+A : 4663, B : 1338
 ------------------------------------------------
 Player A : Soft Major, Player B : Downing
-A : 245, B : 200
+A : 2113, B : 1983
 ------------------------------------------------
 Player A : Soft Major, Player B : Modified Downing
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Hard Forgiver, Player B : Per Nasty
-A : 462, B : 142
+A : 4662, B : 1342
 ------------------------------------------------
 Player A : Hard Forgiver, Player B : Downing
-A : 597, B : 602
+A : 5997, B : 6002
 ------------------------------------------------
 Player A : Hard Forgiver, Player B : Modified Downing
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Per Nasty, Player B : Downing
-A : 364, B : 384
+A : 3715, B : 3810
 ------------------------------------------------
 Player A : Per Nasty, Player B : Modified Downing
-A : 375, B : 380
+A : 3848, B : 3763
 ------------------------------------------------
 Player A : Downing, Player B : Modified Downing
-A : 531, B : 501
+A : 3503, B : 3493
 ------------------------------------------------
-1. Hard Forgiver 591
-2. Tit for Tat 536
-3. Tit for 2 Tat 514
-4. Modified Downing 510
-5. Pavlov 505
-6. Friedman 499
-7. All C 497
-8. Soft Major 496
-9. Alternative 478
-10. Mistrust 455
-11. Tester 437
-12. Downing 428
-13. Per Nasty 421
-14. Random (50%, 50%) 409
+1. Hard Forgiver 5886
+2. Tit for Tat 5293
+3. Tit for 2 Tat 5162
+4. Pavlov 4999
+5. All C 4993
+6. Friedman 4988
+7. Modified Downing 4946
+8. Alternative 4802
+9. Soft Major 4765
+10. Mistrust 4564
+11. Random (50%, 50%) 4516
+12. Tester 4260
+13. Per Nasty 4228
+14. Downing 4079
 =======================================================================
 Left Strategy : 13
-Tit for Tat Tit for 2 Tat Friedman All C Tester Alternative Pavlov Mistrust Soft Major Hard Forgiver Per Nasty Downing Modified Downing 
+Tit for Tat Random (50%, 50%) Tit for 2 Tat Friedman All C Tester Alternative Pavlov Mistrust Soft Major Hard Forgiver Per Nasty Modified Downing 
 
+Player A : Tit for Tat, Player B : Random (50%, 50%)
+A : 4415, B : 4415
+------------------------------------------------
 Player A : Tit for Tat, Player B : Tit for 2 Tat
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Tit for Tat, Player B : Friedman
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Tit for Tat, Player B : All C
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Tit for Tat, Player B : Tester
-A : 496, B : 501
+A : 4996, B : 5001
 ------------------------------------------------
 Player A : Tit for Tat, Player B : Alternative
-A : 498, B : 503
+A : 4998, B : 5003
 ------------------------------------------------
 Player A : Tit for Tat, Player B : Pavlov
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Tit for Tat, Player B : Mistrust
-A : 500, B : 500
+A : 5000, B : 5000
 ------------------------------------------------
 Player A : Tit for Tat, Player B : Soft Major
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Tit for Tat, Player B : Hard Forgiver
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Tit for Tat, Player B : Per Nasty
-A : 397, B : 402
-------------------------------------------------
-Player A : Tit for Tat, Player B : Downing
-A : 383, B : 388
+A : 3997, B : 4002
 ------------------------------------------------
 Player A : Tit for Tat, Player B : Modified Downing
-A : 600, B : 600
+A : 6000, B : 6000
+------------------------------------------------
+Player A : Random (50%, 50%), Player B : Tit for 2 Tat
+A : 6353, B : 3858
+------------------------------------------------
+Player A : Random (50%, 50%), Player B : Friedman
+A : 1062, B : 5787
+------------------------------------------------
+Player A : Random (50%, 50%), Player B : All C
+A : 7962, B : 3057
+------------------------------------------------
+Player A : Random (50%, 50%), Player B : Tester
+A : 4536, B : 4476
+------------------------------------------------
+Player A : Random (50%, 50%), Player B : Alternative
+A : 4494, B : 4509
+------------------------------------------------
+Player A : Random (50%, 50%), Player B : Pavlov
+A : 4332, B : 4752
+------------------------------------------------
+Player A : Random (50%, 50%), Player B : Mistrust
+A : 4524, B : 4529
+------------------------------------------------
+Player A : Random (50%, 50%), Player B : Soft Major
+A : 7863, B : 3128
+------------------------------------------------
+Player A : Random (50%, 50%), Player B : Hard Forgiver
+A : 999, B : 6034
+------------------------------------------------
+Player A : Random (50%, 50%), Player B : Per Nasty
+A : 3364, B : 4944
+------------------------------------------------
+Player A : Random (50%, 50%), Player B : Modified Downing
+A : 4628, B : 4468
 ------------------------------------------------
 Player A : Tit for 2 Tat, Player B : Friedman
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Tit for 2 Tat, Player B : All C
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Tit for 2 Tat, Player B : Tester
-A : 302, B : 797
+A : 3002, B : 7997
 ------------------------------------------------
 Player A : Tit for 2 Tat, Player B : Alternative
-A : 300, B : 800
+A : 3000, B : 8000
 ------------------------------------------------
 Player A : Tit for 2 Tat, Player B : Pavlov
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Tit for 2 Tat, Player B : Mistrust
-A : 597, B : 602
+A : 5997, B : 6002
 ------------------------------------------------
 Player A : Tit for 2 Tat, Player B : Soft Major
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Tit for 2 Tat, Player B : Hard Forgiver
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Tit for 2 Tat, Player B : Per Nasty
-A : 330, B : 670
-------------------------------------------------
-Player A : Tit for 2 Tat, Player B : Downing
-A : 597, B : 602
+A : 3330, B : 6670
 ------------------------------------------------
 Player A : Tit for 2 Tat, Player B : Modified Downing
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Friedman, Player B : All C
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Friedman, Player B : Tester
-A : 203, B : 203
+A : 2003, B : 2003
 ------------------------------------------------
 Player A : Friedman, Player B : Alternative
-A : 597, B : 107
+A : 5997, B : 1007
 ------------------------------------------------
 Player A : Friedman, Player B : Pavlov
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Friedman, Player B : Mistrust
-A : 203, B : 203
+A : 2003, B : 2003
 ------------------------------------------------
 Player A : Friedman, Player B : Soft Major
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Friedman, Player B : Hard Forgiver
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Friedman, Player B : Per Nasty
-A : 463, B : 138
-------------------------------------------------
-Player A : Friedman, Player B : Downing
-A : 227, B : 197
+A : 4663, B : 1338
 ------------------------------------------------
 Player A : Friedman, Player B : Modified Downing
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : All C, Player B : Tester
-A : 300, B : 800
+A : 3000, B : 8000
 ------------------------------------------------
 Player A : All C, Player B : Alternative
-A : 300, B : 800
+A : 3000, B : 8000
 ------------------------------------------------
 Player A : All C, Player B : Pavlov
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : All C, Player B : Mistrust
-A : 597, B : 602
+A : 5997, B : 6002
 ------------------------------------------------
 Player A : All C, Player B : Soft Major
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : All C, Player B : Hard Forgiver
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : All C, Player B : Per Nasty
-A : 198, B : 868
-------------------------------------------------
-Player A : All C, Player B : Downing
-A : 597, B : 602
+A : 1998, B : 8668
 ------------------------------------------------
 Player A : All C, Player B : Modified Downing
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Tester, Player B : Alternative
-A : 499, B : 499
+A : 4999, B : 4999
 ------------------------------------------------
 Player A : Tester, Player B : Pavlov
-A : 600, B : 595
+A : 6000, B : 5995
 ------------------------------------------------
 Player A : Tester, Player B : Mistrust
-A : 497, B : 497
+A : 4997, B : 4997
 ------------------------------------------------
 Player A : Tester, Player B : Soft Major
-A : 203, B : 203
+A : 2003, B : 2003
 ------------------------------------------------
 Player A : Tester, Player B : Hard Forgiver
-A : 115, B : 595
+A : 1015, B : 5995
 ------------------------------------------------
 Player A : Tester, Player B : Per Nasty
-A : 396, B : 401
-------------------------------------------------
-Player A : Tester, Player B : Downing
-A : 398, B : 403
+A : 3996, B : 4001
 ------------------------------------------------
 Player A : Tester, Player B : Modified Downing
-A : 341, B : 336
+A : 4602, B : 4602
 ------------------------------------------------
 Player A : Alternative, Player B : Pavlov
-A : 450, B : 450
+A : 4500, B : 4500
 ------------------------------------------------
 Player A : Alternative, Player B : Mistrust
-A : 500, B : 500
+A : 5000, B : 5000
 ------------------------------------------------
 Player A : Alternative, Player B : Soft Major
-A : 800, B : 300
+A : 8000, B : 3000
 ------------------------------------------------
 Player A : Alternative, Player B : Hard Forgiver
-A : 111, B : 596
+A : 1011, B : 5996
 ------------------------------------------------
 Player A : Alternative, Player B : Per Nasty
-A : 331, B : 501
-------------------------------------------------
-Player A : Alternative, Player B : Downing
-A : 300, B : 550
+A : 3331, B : 5001
 ------------------------------------------------
 Player A : Alternative, Player B : Modified Downing
-A : 596, B : 351
+A : 6168, B : 3458
 ------------------------------------------------
 Player A : Pavlov, Player B : Mistrust
-A : 401, B : 401
+A : 4001, B : 4001
 ------------------------------------------------
 Player A : Pavlov, Player B : Soft Major
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Pavlov, Player B : Hard Forgiver
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Pavlov, Player B : Per Nasty
-A : 265, B : 600
-------------------------------------------------
-Player A : Pavlov, Player B : Downing
-A : 317, B : 507
+A : 2665, B : 6000
 ------------------------------------------------
 Player A : Pavlov, Player B : Modified Downing
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Mistrust, Player B : Soft Major
-A : 500, B : 500
+A : 5000, B : 5000
 ------------------------------------------------
 Player A : Mistrust, Player B : Hard Forgiver
-A : 602, B : 597
+A : 6002, B : 5997
 ------------------------------------------------
 Player A : Mistrust, Player B : Per Nasty
-A : 398, B : 398
-------------------------------------------------
-Player A : Mistrust, Player B : Downing
-A : 200, B : 200
+A : 3998, B : 3998
 ------------------------------------------------
 Player A : Mistrust, Player B : Modified Downing
-A : 509, B : 509
+A : 5074, B : 5069
 ------------------------------------------------
 Player A : Soft Major, Player B : Hard Forgiver
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Soft Major, Player B : Per Nasty
-A : 463, B : 138
-------------------------------------------------
-Player A : Soft Major, Player B : Downing
-A : 275, B : 200
+A : 4663, B : 1338
 ------------------------------------------------
 Player A : Soft Major, Player B : Modified Downing
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Hard Forgiver, Player B : Per Nasty
-A : 462, B : 142
-------------------------------------------------
-Player A : Hard Forgiver, Player B : Downing
-A : 597, B : 602
+A : 4662, B : 1342
 ------------------------------------------------
 Player A : Hard Forgiver, Player B : Modified Downing
-A : 600, B : 600
-------------------------------------------------
-Player A : Per Nasty, Player B : Downing
-A : 395, B : 370
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Per Nasty, Player B : Modified Downing
-A : 367, B : 387
+A : 3736, B : 3781
 ------------------------------------------------
-Player A : Downing, Player B : Modified Downing
-A : 559, B : 554
-------------------------------------------------
-1. Hard Forgiver 587
-2. Tit for Tat 539
-3. Modified Downing 528
-4. Tit for 2 Tat 527
-5. Pavlov 519
-6. All C 516
-7. Soft Major 495
-8. Friedman 491
-9. Alternative 483
-10. Mistrust 459
-11. Tester 445
-12. Downing 431
-13. Per Nasty 418
+1. Hard Forgiver 5890
+2. Tit for Tat 5450
+3. Pavlov 5326
+4. Modified Downing 5281
+5. Friedman 5204
+6. Tit for 2 Tat 5098
+7. Soft Major 4982
+8. Alternative 4960
+9. All C 4921
+10. Mistrust 4800
+11. Tester 4590
+12. Random (50%, 50%) 4544
+13. Per Nasty 4253
 =======================================================================
 Left Strategy : 12
-Tit for Tat Tit for 2 Tat Friedman All C Tester Alternative Pavlov Mistrust Soft Major Hard Forgiver Downing Modified Downing 
+Tit for Tat Random (50%, 50%) Tit for 2 Tat Friedman All C Tester Alternative Pavlov Mistrust Soft Major Hard Forgiver Modified Downing 
 
+Player A : Tit for Tat, Player B : Random (50%, 50%)
+A : 4397, B : 4397
+------------------------------------------------
 Player A : Tit for Tat, Player B : Tit for 2 Tat
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Tit for Tat, Player B : Friedman
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Tit for Tat, Player B : All C
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Tit for Tat, Player B : Tester
-A : 496, B : 501
+A : 4996, B : 5001
 ------------------------------------------------
 Player A : Tit for Tat, Player B : Alternative
-A : 498, B : 503
+A : 4998, B : 5003
 ------------------------------------------------
 Player A : Tit for Tat, Player B : Pavlov
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Tit for Tat, Player B : Mistrust
-A : 500, B : 500
+A : 5000, B : 5000
 ------------------------------------------------
 Player A : Tit for Tat, Player B : Soft Major
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Tit for Tat, Player B : Hard Forgiver
-A : 600, B : 600
-------------------------------------------------
-Player A : Tit for Tat, Player B : Downing
-A : 442, B : 447
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Tit for Tat, Player B : Modified Downing
-A : 600, B : 600
+A : 6000, B : 6000
+------------------------------------------------
+Player A : Random (50%, 50%), Player B : Tit for 2 Tat
+A : 6218, B : 3728
+------------------------------------------------
+Player A : Random (50%, 50%), Player B : Friedman
+A : 997, B : 6037
+------------------------------------------------
+Player A : Random (50%, 50%), Player B : All C
+A : 8074, B : 2889
+------------------------------------------------
+Player A : Random (50%, 50%), Player B : Tester
+A : 4540, B : 4535
+------------------------------------------------
+Player A : Random (50%, 50%), Player B : Alternative
+A : 4474, B : 4524
+------------------------------------------------
+Player A : Random (50%, 50%), Player B : Pavlov
+A : 4493, B : 4463
+------------------------------------------------
+Player A : Random (50%, 50%), Player B : Mistrust
+A : 4494, B : 4494
+------------------------------------------------
+Player A : Random (50%, 50%), Player B : Soft Major
+A : 2188, B : 5433
+------------------------------------------------
+Player A : Random (50%, 50%), Player B : Hard Forgiver
+A : 1034, B : 5914
+------------------------------------------------
+Player A : Random (50%, 50%), Player B : Modified Downing
+A : 4282, B : 4537
 ------------------------------------------------
 Player A : Tit for 2 Tat, Player B : Friedman
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Tit for 2 Tat, Player B : All C
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Tit for 2 Tat, Player B : Tester
-A : 302, B : 797
+A : 3002, B : 7997
 ------------------------------------------------
 Player A : Tit for 2 Tat, Player B : Alternative
-A : 300, B : 800
+A : 3000, B : 8000
 ------------------------------------------------
 Player A : Tit for 2 Tat, Player B : Pavlov
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Tit for 2 Tat, Player B : Mistrust
-A : 597, B : 602
+A : 5997, B : 6002
 ------------------------------------------------
 Player A : Tit for 2 Tat, Player B : Soft Major
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Tit for 2 Tat, Player B : Hard Forgiver
-A : 600, B : 600
-------------------------------------------------
-Player A : Tit for 2 Tat, Player B : Downing
-A : 597, B : 602
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Tit for 2 Tat, Player B : Modified Downing
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Friedman, Player B : All C
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Friedman, Player B : Tester
-A : 203, B : 203
+A : 2003, B : 2003
 ------------------------------------------------
 Player A : Friedman, Player B : Alternative
-A : 597, B : 107
+A : 5997, B : 1007
 ------------------------------------------------
 Player A : Friedman, Player B : Pavlov
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Friedman, Player B : Mistrust
-A : 203, B : 203
+A : 2003, B : 2003
 ------------------------------------------------
 Player A : Friedman, Player B : Soft Major
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Friedman, Player B : Hard Forgiver
-A : 600, B : 600
-------------------------------------------------
-Player A : Friedman, Player B : Downing
-A : 211, B : 201
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Friedman, Player B : Modified Downing
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : All C, Player B : Tester
-A : 300, B : 800
+A : 3000, B : 8000
 ------------------------------------------------
 Player A : All C, Player B : Alternative
-A : 300, B : 800
+A : 3000, B : 8000
 ------------------------------------------------
 Player A : All C, Player B : Pavlov
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : All C, Player B : Mistrust
-A : 597, B : 602
+A : 5997, B : 6002
 ------------------------------------------------
 Player A : All C, Player B : Soft Major
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : All C, Player B : Hard Forgiver
-A : 600, B : 600
-------------------------------------------------
-Player A : All C, Player B : Downing
-A : 597, B : 602
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : All C, Player B : Modified Downing
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Tester, Player B : Alternative
-A : 499, B : 499
+A : 4999, B : 4999
 ------------------------------------------------
 Player A : Tester, Player B : Pavlov
-A : 600, B : 595
+A : 6000, B : 5995
 ------------------------------------------------
 Player A : Tester, Player B : Mistrust
-A : 497, B : 497
+A : 4997, B : 4997
 ------------------------------------------------
 Player A : Tester, Player B : Soft Major
-A : 203, B : 203
+A : 2003, B : 2003
 ------------------------------------------------
 Player A : Tester, Player B : Hard Forgiver
-A : 115, B : 595
-------------------------------------------------
-Player A : Tester, Player B : Downing
-A : 337, B : 342
+A : 1015, B : 5995
 ------------------------------------------------
 Player A : Tester, Player B : Modified Downing
-A : 269, B : 269
+A : 5230, B : 5230
 ------------------------------------------------
 Player A : Alternative, Player B : Pavlov
-A : 450, B : 450
+A : 4500, B : 4500
 ------------------------------------------------
 Player A : Alternative, Player B : Mistrust
-A : 500, B : 500
+A : 5000, B : 5000
 ------------------------------------------------
 Player A : Alternative, Player B : Soft Major
-A : 800, B : 300
+A : 8000, B : 3000
 ------------------------------------------------
 Player A : Alternative, Player B : Hard Forgiver
-A : 111, B : 596
-------------------------------------------------
-Player A : Alternative, Player B : Downing
-A : 316, B : 546
+A : 1011, B : 5996
 ------------------------------------------------
 Player A : Alternative, Player B : Modified Downing
-A : 592, B : 352
+A : 5944, B : 3514
 ------------------------------------------------
 Player A : Pavlov, Player B : Mistrust
-A : 401, B : 401
+A : 4001, B : 4001
 ------------------------------------------------
 Player A : Pavlov, Player B : Soft Major
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Pavlov, Player B : Hard Forgiver
-A : 600, B : 600
-------------------------------------------------
-Player A : Pavlov, Player B : Downing
-A : 268, B : 528
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Pavlov, Player B : Modified Downing
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Mistrust, Player B : Soft Major
-A : 500, B : 500
+A : 5000, B : 5000
 ------------------------------------------------
 Player A : Mistrust, Player B : Hard Forgiver
-A : 602, B : 597
-------------------------------------------------
-Player A : Mistrust, Player B : Downing
-A : 203, B : 203
+A : 6002, B : 5997
 ------------------------------------------------
 Player A : Mistrust, Player B : Modified Downing
-A : 513, B : 508
+A : 5372, B : 5367
 ------------------------------------------------
 Player A : Soft Major, Player B : Hard Forgiver
-A : 600, B : 600
-------------------------------------------------
-Player A : Soft Major, Player B : Downing
-A : 230, B : 200
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Soft Major, Player B : Modified Downing
-A : 600, B : 600
-------------------------------------------------
-Player A : Hard Forgiver, Player B : Downing
-A : 597, B : 602
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Hard Forgiver, Player B : Modified Downing
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
-Player A : Downing, Player B : Modified Downing
-A : 440, B : 415
-------------------------------------------------
-1. Hard Forgiver 598
-2. Tit for Tat 557
-3. Tit for 2 Tat 545
-4. All C 544
-5. Pavlov 537
-6. Modified Downing 522
-7. Alternative 498
-8. Soft Major 493
-9. Friedman 492
-10. Mistrust 465
-11. Tester 438
-12. Downing 428
+1. Hard Forgiver 5991
+2. Tit for Tat 5581
+3. Pavlov 5541
+4. Modified Downing 5513
+5. Friedman 5276
+6. Tit for 2 Tat 5247
+7. Soft Major 5221
+8. All C 5171
+9. Alternative 5089
+10. Mistrust 4897
+11. Tester 4707
+12. Random (50%, 50%) 4108
 =======================================================================
 Left Strategy : 11
 Tit for Tat Tit for 2 Tat Friedman All C Tester Alternative Pavlov Mistrust Soft Major Hard Forgiver Modified Downing 
 
 Player A : Tit for Tat, Player B : Tit for 2 Tat
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Tit for Tat, Player B : Friedman
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Tit for Tat, Player B : All C
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Tit for Tat, Player B : Tester
-A : 496, B : 501
+A : 4996, B : 5001
 ------------------------------------------------
 Player A : Tit for Tat, Player B : Alternative
-A : 498, B : 503
+A : 4998, B : 5003
 ------------------------------------------------
 Player A : Tit for Tat, Player B : Pavlov
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Tit for Tat, Player B : Mistrust
-A : 500, B : 500
+A : 5000, B : 5000
 ------------------------------------------------
 Player A : Tit for Tat, Player B : Soft Major
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Tit for Tat, Player B : Hard Forgiver
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Tit for Tat, Player B : Modified Downing
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Tit for 2 Tat, Player B : Friedman
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Tit for 2 Tat, Player B : All C
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Tit for 2 Tat, Player B : Tester
-A : 302, B : 797
+A : 3002, B : 7997
 ------------------------------------------------
 Player A : Tit for 2 Tat, Player B : Alternative
-A : 300, B : 800
+A : 3000, B : 8000
 ------------------------------------------------
 Player A : Tit for 2 Tat, Player B : Pavlov
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Tit for 2 Tat, Player B : Mistrust
-A : 597, B : 602
+A : 5997, B : 6002
 ------------------------------------------------
 Player A : Tit for 2 Tat, Player B : Soft Major
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Tit for 2 Tat, Player B : Hard Forgiver
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Tit for 2 Tat, Player B : Modified Downing
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Friedman, Player B : All C
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Friedman, Player B : Tester
-A : 203, B : 203
+A : 2003, B : 2003
 ------------------------------------------------
 Player A : Friedman, Player B : Alternative
-A : 597, B : 107
+A : 5997, B : 1007
 ------------------------------------------------
 Player A : Friedman, Player B : Pavlov
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Friedman, Player B : Mistrust
-A : 203, B : 203
+A : 2003, B : 2003
 ------------------------------------------------
 Player A : Friedman, Player B : Soft Major
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Friedman, Player B : Hard Forgiver
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Friedman, Player B : Modified Downing
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : All C, Player B : Tester
-A : 300, B : 800
+A : 3000, B : 8000
 ------------------------------------------------
 Player A : All C, Player B : Alternative
-A : 300, B : 800
+A : 3000, B : 8000
 ------------------------------------------------
 Player A : All C, Player B : Pavlov
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : All C, Player B : Mistrust
-A : 597, B : 602
+A : 5997, B : 6002
 ------------------------------------------------
 Player A : All C, Player B : Soft Major
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : All C, Player B : Hard Forgiver
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : All C, Player B : Modified Downing
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Tester, Player B : Alternative
-A : 499, B : 499
+A : 4999, B : 4999
 ------------------------------------------------
 Player A : Tester, Player B : Pavlov
-A : 600, B : 595
+A : 6000, B : 5995
 ------------------------------------------------
 Player A : Tester, Player B : Mistrust
-A : 497, B : 497
+A : 4997, B : 4997
 ------------------------------------------------
 Player A : Tester, Player B : Soft Major
-A : 203, B : 203
+A : 2003, B : 2003
 ------------------------------------------------
 Player A : Tester, Player B : Hard Forgiver
-A : 115, B : 595
+A : 1015, B : 5995
 ------------------------------------------------
 Player A : Tester, Player B : Modified Downing
-A : 518, B : 513
+A : 2629, B : 2629
 ------------------------------------------------
 Player A : Alternative, Player B : Pavlov
-A : 450, B : 450
+A : 4500, B : 4500
 ------------------------------------------------
 Player A : Alternative, Player B : Mistrust
-A : 500, B : 500
+A : 5000, B : 5000
 ------------------------------------------------
 Player A : Alternative, Player B : Soft Major
-A : 800, B : 300
+A : 8000, B : 3000
 ------------------------------------------------
 Player A : Alternative, Player B : Hard Forgiver
-A : 111, B : 596
+A : 1011, B : 5996
 ------------------------------------------------
 Player A : Alternative, Player B : Modified Downing
-A : 560, B : 360
+A : 6044, B : 3489
 ------------------------------------------------
 Player A : Pavlov, Player B : Mistrust
-A : 401, B : 401
+A : 4001, B : 4001
 ------------------------------------------------
 Player A : Pavlov, Player B : Soft Major
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Pavlov, Player B : Hard Forgiver
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Pavlov, Player B : Modified Downing
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Mistrust, Player B : Soft Major
-A : 500, B : 500
+A : 5000, B : 5000
 ------------------------------------------------
 Player A : Mistrust, Player B : Hard Forgiver
-A : 602, B : 597
+A : 6002, B : 5997
 ------------------------------------------------
 Player A : Mistrust, Player B : Modified Downing
-A : 540, B : 535
+A : 4741, B : 4741
 ------------------------------------------------
 Player A : Soft Major, Player B : Hard Forgiver
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Soft Major, Player B : Modified Downing
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Hard Forgiver, Player B : Modified Downing
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
-1. Hard Forgiver 598
-2. Tit for Tat 569
-3. Pavlov 564
-4. Modified Downing 560
-5. Tit for 2 Tat 539
-6. All C 539
-7. Friedman 520
-8. Soft Major 520
-9. Alternative 513
-10. Mistrust 494
-11. Tester 473
+1. Hard Forgiver 5998
+2. Tit for Tat 5699
+3. Pavlov 5649
+4. Tit for 2 Tat 5399
+5. All C 5399
+6. Modified Downing 5285
+7. Friedman 5200
+8. Soft Major 5200
+9. Alternative 5156
+10. Mistrust 4874
+11. Tester 4464
 =======================================================================
 Left Strategy : 10
 Tit for Tat Tit for 2 Tat Friedman All C Alternative Pavlov Mistrust Soft Major Hard Forgiver Modified Downing 
 
 Player A : Tit for Tat, Player B : Tit for 2 Tat
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Tit for Tat, Player B : Friedman
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Tit for Tat, Player B : All C
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Tit for Tat, Player B : Alternative
-A : 498, B : 503
+A : 4998, B : 5003
 ------------------------------------------------
 Player A : Tit for Tat, Player B : Pavlov
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Tit for Tat, Player B : Mistrust
-A : 500, B : 500
+A : 5000, B : 5000
 ------------------------------------------------
 Player A : Tit for Tat, Player B : Soft Major
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Tit for Tat, Player B : Hard Forgiver
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Tit for Tat, Player B : Modified Downing
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Tit for 2 Tat, Player B : Friedman
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Tit for 2 Tat, Player B : All C
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Tit for 2 Tat, Player B : Alternative
-A : 300, B : 800
+A : 3000, B : 8000
 ------------------------------------------------
 Player A : Tit for 2 Tat, Player B : Pavlov
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Tit for 2 Tat, Player B : Mistrust
-A : 597, B : 602
+A : 5997, B : 6002
 ------------------------------------------------
 Player A : Tit for 2 Tat, Player B : Soft Major
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Tit for 2 Tat, Player B : Hard Forgiver
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Tit for 2 Tat, Player B : Modified Downing
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Friedman, Player B : All C
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Friedman, Player B : Alternative
-A : 597, B : 107
+A : 5997, B : 1007
 ------------------------------------------------
 Player A : Friedman, Player B : Pavlov
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Friedman, Player B : Mistrust
-A : 203, B : 203
+A : 2003, B : 2003
 ------------------------------------------------
 Player A : Friedman, Player B : Soft Major
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Friedman, Player B : Hard Forgiver
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Friedman, Player B : Modified Downing
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : All C, Player B : Alternative
-A : 300, B : 800
+A : 3000, B : 8000
 ------------------------------------------------
 Player A : All C, Player B : Pavlov
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : All C, Player B : Mistrust
-A : 597, B : 602
+A : 5997, B : 6002
 ------------------------------------------------
 Player A : All C, Player B : Soft Major
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : All C, Player B : Hard Forgiver
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : All C, Player B : Modified Downing
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Alternative, Player B : Pavlov
-A : 450, B : 450
+A : 4500, B : 4500
 ------------------------------------------------
 Player A : Alternative, Player B : Mistrust
-A : 500, B : 500
+A : 5000, B : 5000
 ------------------------------------------------
 Player A : Alternative, Player B : Soft Major
-A : 800, B : 300
+A : 8000, B : 3000
 ------------------------------------------------
 Player A : Alternative, Player B : Hard Forgiver
-A : 111, B : 596
+A : 1011, B : 5996
 ------------------------------------------------
 Player A : Alternative, Player B : Modified Downing
-A : 600, B : 350
+A : 6084, B : 3479
 ------------------------------------------------
 Player A : Pavlov, Player B : Mistrust
-A : 401, B : 401
+A : 4001, B : 4001
 ------------------------------------------------
 Player A : Pavlov, Player B : Soft Major
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Pavlov, Player B : Hard Forgiver
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Pavlov, Player B : Modified Downing
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Mistrust, Player B : Soft Major
-A : 500, B : 500
+A : 5000, B : 5000
 ------------------------------------------------
 Player A : Mistrust, Player B : Hard Forgiver
-A : 602, B : 597
+A : 6002, B : 5997
 ------------------------------------------------
 Player A : Mistrust, Player B : Modified Downing
-A : 539, B : 539
+A : 5601, B : 5596
 ------------------------------------------------
 Player A : Soft Major, Player B : Hard Forgiver
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Soft Major, Player B : Modified Downing
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Hard Forgiver, Player B : Modified Downing
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
-1. Hard Forgiver 599
-2. Tit for Tat 577
-3. Tit for 2 Tat 566
-4. All C 566
-5. Modified Downing 565
-6. Pavlov 561
-7. Friedman 555
-8. Soft Major 555
-9. Alternative 519
-10. Mistrust 494
+1. Hard Forgiver 5999
+2. Tit for Tat 5777
+3. Modified Downing 5675
+4. Tit for 2 Tat 5666
+5. All C 5666
+6. Pavlov 5611
+7. Friedman 5555
+8. Soft Major 5555
+9. Alternative 5178
+10. Mistrust 4956
 =======================================================================
 Left Strategy : 9
 Tit for Tat Tit for 2 Tat Friedman All C Alternative Pavlov Soft Major Hard Forgiver Modified Downing 
 
 Player A : Tit for Tat, Player B : Tit for 2 Tat
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Tit for Tat, Player B : Friedman
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Tit for Tat, Player B : All C
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Tit for Tat, Player B : Alternative
-A : 498, B : 503
+A : 4998, B : 5003
 ------------------------------------------------
 Player A : Tit for Tat, Player B : Pavlov
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Tit for Tat, Player B : Soft Major
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Tit for Tat, Player B : Hard Forgiver
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Tit for Tat, Player B : Modified Downing
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Tit for 2 Tat, Player B : Friedman
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Tit for 2 Tat, Player B : All C
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Tit for 2 Tat, Player B : Alternative
-A : 300, B : 800
+A : 3000, B : 8000
 ------------------------------------------------
 Player A : Tit for 2 Tat, Player B : Pavlov
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Tit for 2 Tat, Player B : Soft Major
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Tit for 2 Tat, Player B : Hard Forgiver
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Tit for 2 Tat, Player B : Modified Downing
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Friedman, Player B : All C
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Friedman, Player B : Alternative
-A : 597, B : 107
+A : 5997, B : 1007
 ------------------------------------------------
 Player A : Friedman, Player B : Pavlov
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Friedman, Player B : Soft Major
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Friedman, Player B : Hard Forgiver
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Friedman, Player B : Modified Downing
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : All C, Player B : Alternative
-A : 300, B : 800
+A : 3000, B : 8000
 ------------------------------------------------
 Player A : All C, Player B : Pavlov
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : All C, Player B : Soft Major
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : All C, Player B : Hard Forgiver
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : All C, Player B : Modified Downing
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Alternative, Player B : Pavlov
-A : 450, B : 450
+A : 4500, B : 4500
 ------------------------------------------------
 Player A : Alternative, Player B : Soft Major
-A : 800, B : 300
+A : 8000, B : 3000
 ------------------------------------------------
 Player A : Alternative, Player B : Hard Forgiver
-A : 111, B : 596
+A : 1011, B : 5996
 ------------------------------------------------
 Player A : Alternative, Player B : Modified Downing
-A : 560, B : 360
+A : 6024, B : 3494
 ------------------------------------------------
 Player A : Pavlov, Player B : Soft Major
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Pavlov, Player B : Hard Forgiver
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Pavlov, Player B : Modified Downing
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Soft Major, Player B : Hard Forgiver
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Soft Major, Player B : Modified Downing
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Hard Forgiver, Player B : Modified Downing
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
-1. Friedman 599
-2. Hard Forgiver 599
-3. Tit for Tat 587
-4. Pavlov 581
-5. Modified Downing 570
-6. Tit for 2 Tat 562
-7. All C 562
-8. Soft Major 562
-9. Alternative 516
+1. Friedman 5999
+2. Hard Forgiver 5999
+3. Tit for Tat 5874
+4. Pavlov 5812
+5. Modified Downing 5686
+6. Tit for 2 Tat 5625
+7. All C 5625
+8. Soft Major 5625
+9. Alternative 5193
 =======================================================================
 Left Strategy : 8
 Tit for Tat Tit for 2 Tat Friedman All C Pavlov Soft Major Hard Forgiver Modified Downing 
 
 Player A : Tit for Tat, Player B : Tit for 2 Tat
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Tit for Tat, Player B : Friedman
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Tit for Tat, Player B : All C
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Tit for Tat, Player B : Pavlov
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Tit for Tat, Player B : Soft Major
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Tit for Tat, Player B : Hard Forgiver
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Tit for Tat, Player B : Modified Downing
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Tit for 2 Tat, Player B : Friedman
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Tit for 2 Tat, Player B : All C
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Tit for 2 Tat, Player B : Pavlov
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Tit for 2 Tat, Player B : Soft Major
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Tit for 2 Tat, Player B : Hard Forgiver
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Tit for 2 Tat, Player B : Modified Downing
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Friedman, Player B : All C
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Friedman, Player B : Pavlov
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Friedman, Player B : Soft Major
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Friedman, Player B : Hard Forgiver
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Friedman, Player B : Modified Downing
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : All C, Player B : Pavlov
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : All C, Player B : Soft Major
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : All C, Player B : Hard Forgiver
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : All C, Player B : Modified Downing
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Pavlov, Player B : Soft Major
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Pavlov, Player B : Hard Forgiver
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Pavlov, Player B : Modified Downing
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Soft Major, Player B : Hard Forgiver
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Soft Major, Player B : Modified Downing
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Hard Forgiver, Player B : Modified Downing
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
-1. Tit for Tat 600
-2. Tit for 2 Tat 600
-3. Friedman 600
-4. All C 600
-5. Pavlov 600
-6. Soft Major 600
-7. Hard Forgiver 600
-8. Modified Downing 600
+1. Tit for Tat 6000
+2. Tit for 2 Tat 6000
+3. Friedman 6000
+4. All C 6000
+5. Pavlov 6000
+6. Soft Major 6000
+7. Hard Forgiver 6000
+8. Modified Downing 6000
 =======================================================================
 Left Strategy : 8
 Tit for Tat Tit for 2 Tat Friedman All C Pavlov Soft Major Hard Forgiver Modified Downing 
 
 Player A : Tit for Tat, Player B : Tit for 2 Tat
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Tit for Tat, Player B : Friedman
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Tit for Tat, Player B : All C
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Tit for Tat, Player B : Pavlov
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Tit for Tat, Player B : Soft Major
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Tit for Tat, Player B : Hard Forgiver
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Tit for Tat, Player B : Modified Downing
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Tit for 2 Tat, Player B : Friedman
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Tit for 2 Tat, Player B : All C
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Tit for 2 Tat, Player B : Pavlov
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Tit for 2 Tat, Player B : Soft Major
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Tit for 2 Tat, Player B : Hard Forgiver
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Tit for 2 Tat, Player B : Modified Downing
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Friedman, Player B : All C
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Friedman, Player B : Pavlov
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Friedman, Player B : Soft Major
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Friedman, Player B : Hard Forgiver
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Friedman, Player B : Modified Downing
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : All C, Player B : Pavlov
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : All C, Player B : Soft Major
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : All C, Player B : Hard Forgiver
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : All C, Player B : Modified Downing
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Pavlov, Player B : Soft Major
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Pavlov, Player B : Hard Forgiver
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Pavlov, Player B : Modified Downing
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Soft Major, Player B : Hard Forgiver
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Soft Major, Player B : Modified Downing
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Hard Forgiver, Player B : Modified Downing
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
-1. Tit for Tat 600
-2. Tit for 2 Tat 600
-3. Friedman 600
-4. All C 600
-5. Pavlov 600
-6. Soft Major 600
-7. Hard Forgiver 600
-8. Modified Downing 600
+1. Tit for Tat 6000
+2. Tit for 2 Tat 6000
+3. Friedman 6000
+4. All C 6000
+5. Pavlov 6000
+6. Soft Major 6000
+7. Hard Forgiver 6000
+8. Modified Downing 6000
 =======================================================================
 Left Strategy : 8
 Tit for Tat Tit for 2 Tat Friedman All C Pavlov Soft Major Hard Forgiver Modified Downing 
 
 Player A : Tit for Tat, Player B : Tit for 2 Tat
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Tit for Tat, Player B : Friedman
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Tit for Tat, Player B : All C
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Tit for Tat, Player B : Pavlov
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Tit for Tat, Player B : Soft Major
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Tit for Tat, Player B : Hard Forgiver
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Tit for Tat, Player B : Modified Downing
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Tit for 2 Tat, Player B : Friedman
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Tit for 2 Tat, Player B : All C
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Tit for 2 Tat, Player B : Pavlov
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Tit for 2 Tat, Player B : Soft Major
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Tit for 2 Tat, Player B : Hard Forgiver
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Tit for 2 Tat, Player B : Modified Downing
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Friedman, Player B : All C
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Friedman, Player B : Pavlov
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Friedman, Player B : Soft Major
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Friedman, Player B : Hard Forgiver
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Friedman, Player B : Modified Downing
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : All C, Player B : Pavlov
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : All C, Player B : Soft Major
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : All C, Player B : Hard Forgiver
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : All C, Player B : Modified Downing
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Pavlov, Player B : Soft Major
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Pavlov, Player B : Hard Forgiver
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Pavlov, Player B : Modified Downing
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Soft Major, Player B : Hard Forgiver
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Soft Major, Player B : Modified Downing
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Hard Forgiver, Player B : Modified Downing
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
-1. Tit for Tat 600
-2. Tit for 2 Tat 600
-3. Friedman 600
-4. All C 600
-5. Pavlov 600
-6. Soft Major 600
-7. Hard Forgiver 600
-8. Modified Downing 600
+1. Tit for Tat 6000
+2. Tit for 2 Tat 6000
+3. Friedman 6000
+4. All C 6000
+5. Pavlov 6000
+6. Soft Major 6000
+7. Hard Forgiver 6000
+8. Modified Downing 6000
 =======================================================================
 Left Strategy : 8
 Tit for Tat Tit for 2 Tat Friedman All C Pavlov Soft Major Hard Forgiver Modified Downing 
 
 Player A : Tit for Tat, Player B : Tit for 2 Tat
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Tit for Tat, Player B : Friedman
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Tit for Tat, Player B : All C
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Tit for Tat, Player B : Pavlov
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Tit for Tat, Player B : Soft Major
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Tit for Tat, Player B : Hard Forgiver
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Tit for Tat, Player B : Modified Downing
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Tit for 2 Tat, Player B : Friedman
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Tit for 2 Tat, Player B : All C
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Tit for 2 Tat, Player B : Pavlov
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Tit for 2 Tat, Player B : Soft Major
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Tit for 2 Tat, Player B : Hard Forgiver
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Tit for 2 Tat, Player B : Modified Downing
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Friedman, Player B : All C
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Friedman, Player B : Pavlov
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Friedman, Player B : Soft Major
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Friedman, Player B : Hard Forgiver
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Friedman, Player B : Modified Downing
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : All C, Player B : Pavlov
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : All C, Player B : Soft Major
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : All C, Player B : Hard Forgiver
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : All C, Player B : Modified Downing
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Pavlov, Player B : Soft Major
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Pavlov, Player B : Hard Forgiver
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Pavlov, Player B : Modified Downing
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Soft Major, Player B : Hard Forgiver
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Soft Major, Player B : Modified Downing
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Hard Forgiver, Player B : Modified Downing
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
-1. Tit for Tat 600
-2. Tit for 2 Tat 600
-3. Friedman 600
-4. All C 600
-5. Pavlov 600
-6. Soft Major 600
-7. Hard Forgiver 600
-8. Modified Downing 600
+1. Tit for Tat 6000
+2. Tit for 2 Tat 6000
+3. Friedman 6000
+4. All C 6000
+5. Pavlov 6000
+6. Soft Major 6000
+7. Hard Forgiver 6000
+8. Modified Downing 6000
 =======================================================================
 Left Strategy : 8
 Tit for Tat Tit for 2 Tat Friedman All C Pavlov Soft Major Hard Forgiver Modified Downing 
 
 Player A : Tit for Tat, Player B : Tit for 2 Tat
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Tit for Tat, Player B : Friedman
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Tit for Tat, Player B : All C
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Tit for Tat, Player B : Pavlov
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Tit for Tat, Player B : Soft Major
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Tit for Tat, Player B : Hard Forgiver
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Tit for Tat, Player B : Modified Downing
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Tit for 2 Tat, Player B : Friedman
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Tit for 2 Tat, Player B : All C
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Tit for 2 Tat, Player B : Pavlov
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Tit for 2 Tat, Player B : Soft Major
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Tit for 2 Tat, Player B : Hard Forgiver
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Tit for 2 Tat, Player B : Modified Downing
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Friedman, Player B : All C
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Friedman, Player B : Pavlov
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Friedman, Player B : Soft Major
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Friedman, Player B : Hard Forgiver
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Friedman, Player B : Modified Downing
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : All C, Player B : Pavlov
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : All C, Player B : Soft Major
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : All C, Player B : Hard Forgiver
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : All C, Player B : Modified Downing
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Pavlov, Player B : Soft Major
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Pavlov, Player B : Hard Forgiver
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Pavlov, Player B : Modified Downing
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Soft Major, Player B : Hard Forgiver
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Soft Major, Player B : Modified Downing
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Hard Forgiver, Player B : Modified Downing
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
-1. Tit for Tat 600
-2. Tit for 2 Tat 600
-3. Friedman 600
-4. All C 600
-5. Pavlov 600
-6. Soft Major 600
-7. Hard Forgiver 600
-8. Modified Downing 600
+1. Tit for Tat 6000
+2. Tit for 2 Tat 6000
+3. Friedman 6000
+4. All C 6000
+5. Pavlov 6000
+6. Soft Major 6000
+7. Hard Forgiver 6000
+8. Modified Downing 6000
 =======================================================================
 Left Strategy : 8
 Tit for Tat Tit for 2 Tat Friedman All C Pavlov Soft Major Hard Forgiver Modified Downing 
 
 Player A : Tit for Tat, Player B : Tit for 2 Tat
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Tit for Tat, Player B : Friedman
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Tit for Tat, Player B : All C
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Tit for Tat, Player B : Pavlov
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Tit for Tat, Player B : Soft Major
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Tit for Tat, Player B : Hard Forgiver
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Tit for Tat, Player B : Modified Downing
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Tit for 2 Tat, Player B : Friedman
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Tit for 2 Tat, Player B : All C
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Tit for 2 Tat, Player B : Pavlov
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Tit for 2 Tat, Player B : Soft Major
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Tit for 2 Tat, Player B : Hard Forgiver
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Tit for 2 Tat, Player B : Modified Downing
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Friedman, Player B : All C
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Friedman, Player B : Pavlov
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Friedman, Player B : Soft Major
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Friedman, Player B : Hard Forgiver
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Friedman, Player B : Modified Downing
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : All C, Player B : Pavlov
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : All C, Player B : Soft Major
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : All C, Player B : Hard Forgiver
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : All C, Player B : Modified Downing
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Pavlov, Player B : Soft Major
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Pavlov, Player B : Hard Forgiver
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Pavlov, Player B : Modified Downing
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Soft Major, Player B : Hard Forgiver
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Soft Major, Player B : Modified Downing
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Hard Forgiver, Player B : Modified Downing
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
-1. Tit for Tat 600
-2. Tit for 2 Tat 600
-3. Friedman 600
-4. All C 600
-5. Pavlov 600
-6. Soft Major 600
-7. Hard Forgiver 600
-8. Modified Downing 600
+1. Tit for Tat 6000
+2. Tit for 2 Tat 6000
+3. Friedman 6000
+4. All C 6000
+5. Pavlov 6000
+6. Soft Major 6000
+7. Hard Forgiver 6000
+8. Modified Downing 6000
 =======================================================================
 Left Strategy : 8
 Tit for Tat Tit for 2 Tat Friedman All C Pavlov Soft Major Hard Forgiver Modified Downing 
 
 Player A : Tit for Tat, Player B : Tit for 2 Tat
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Tit for Tat, Player B : Friedman
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Tit for Tat, Player B : All C
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Tit for Tat, Player B : Pavlov
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Tit for Tat, Player B : Soft Major
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Tit for Tat, Player B : Hard Forgiver
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Tit for Tat, Player B : Modified Downing
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Tit for 2 Tat, Player B : Friedman
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Tit for 2 Tat, Player B : All C
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Tit for 2 Tat, Player B : Pavlov
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Tit for 2 Tat, Player B : Soft Major
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Tit for 2 Tat, Player B : Hard Forgiver
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Tit for 2 Tat, Player B : Modified Downing
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Friedman, Player B : All C
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Friedman, Player B : Pavlov
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Friedman, Player B : Soft Major
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Friedman, Player B : Hard Forgiver
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Friedman, Player B : Modified Downing
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : All C, Player B : Pavlov
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : All C, Player B : Soft Major
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : All C, Player B : Hard Forgiver
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : All C, Player B : Modified Downing
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Pavlov, Player B : Soft Major
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Pavlov, Player B : Hard Forgiver
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Pavlov, Player B : Modified Downing
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Soft Major, Player B : Hard Forgiver
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Soft Major, Player B : Modified Downing
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
 Player A : Hard Forgiver, Player B : Modified Downing
-A : 600, B : 600
+A : 6000, B : 6000
 ------------------------------------------------
-1. Tit for Tat 600
-2. Tit for 2 Tat 600
-3. Friedman 600
-4. All C 600
-5. Pavlov 600
-6. Soft Major 600
-7. Hard Forgiver 600
-8. Modified Downing 600
+1. Tit for Tat 6000
+2. Tit for 2 Tat 6000
+3. Friedman 6000
+4. All C 6000
+5. Pavlov 6000
+6. Soft Major 6000
+7. Hard Forgiver 6000
+8. Modified Downing 6000
 =======================================================================
 
 
 -------------------------------Standings-------------------------------
-1. Hard Forgiver 585
-2. Tit for Tat 557
-3. Pavlov 550
-4. Modified Downing 549
-5. Tit for 2 Tat 548
-6. Friedman 543
-7. All C 539
-8. Soft Major 536
-9. Alternative 487
-10. Mistrust 453
-11. Tester 440
-12. Per Nasty 422
-13. Random (50%, 50%) 420
-14. Downing 413
-15. Joss 402
-16. Random (90%, 10%) 396
-17. Random (10%, 90%) 389
-18. Prober 377
-19. All D 370
+1. Hard Forgiver 5795
+2. Tit for Tat 5538
+3. Pavlov 5441
+4. Modified Downing 5440
+5. Tit for 2 Tat 5428
+6. Friedman 5391
+7. Soft Major 5339
+8. All C 5336
+9. Alternative 4801
+10. Mistrust 4510
+11. Tester 4267
+12. Random (50%, 50%) 4209
+13. Per Nasty 4062
+14. Downing 4017
+15. Random (90%, 10%) 3706
+16. Joss 3615
+17. Random (10%, 90%) 3585
+18. Prober 3536
+19. All D 3521
