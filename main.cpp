@@ -576,7 +576,12 @@ public:
 };
 
 class Prober : public Strategy {
+public:
+    Prober() = default;
 
+    std::string name() override {
+        return "Prober";
+    }
 };
 
 Reward::RewardRef rewards[2][2] = {
