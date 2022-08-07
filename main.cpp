@@ -582,7 +582,21 @@ public:
     std::string name() override {
         return "Prober";
     }
+
+    std::string description() override {
+        return "- 협력, 배반, 배반으로 시작한다. \n"
+               "- 2~3턴에서 계속 상대가 협력시 계속 배반하고, 아니라면 Tit for Tat으로 나머지 턴을 플레이한다.\n";
+    }
+
+    Choice::ChoiceRef choose() override {
+        if (choices.empty()) return Choice::C;
+        if (choices.size() < 3) return Choice::D;
+        if (choices[1] == choices[2] && choices[1] == Choice::C) return Choice::D;
+        return choices.back();
+    }
 };
+
+
 
 Reward::RewardRef rewards[2][2] = {
         {Reward::P, Reward::T},
@@ -620,5 +634,5 @@ std::pair<int, int> game(Strategy *A, Strategy *B) {
 int main() {
     Strategy *list[] = {new TitForTat(), new Random55(), new Random91(), new Random19()};
 
-    game(new Mistrust(), new Tester());
+    game(new AllC(), new Prober());
 }
