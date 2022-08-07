@@ -575,7 +575,9 @@ public:
     }
 };
 
+class Prober : public Strategy {
 
+};
 
 Reward::RewardRef rewards[2][2] = {
         {Reward::P, Reward::T},
