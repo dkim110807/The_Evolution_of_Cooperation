@@ -633,6 +633,48 @@ public:
     }
 };
 
+/**
+ * <b> Downing </b>
+ *
+ * <hr>
+ * 1. 처음에는 배반을 한다.
+ * <br> 2. 이후에는 (상대가 배반한 횟수) / (총 게임 횟수)의 확률로 배반한다.
+ * <hr>
+ *
+ * @author dkim110807
+ */
+class Downing : public Strategy {
+private:
+    Random<int> generator;
+    int p = 500;
+    int betray = 0;
+
+public:
+    Downing() {
+        generator = Random<int>(1, 1000, (unsigned int) time(nullptr));
+    }
+
+    std::string name() override {
+        return "Downing";
+    }
+
+    std::string description() override {
+        return "- 처음에는 배반을 한다. \n"
+               "- 이후에는 (상대가 배반한 횟수) / (총 게임 횟수)의 확률로 배반한다.\n";
+    }
+
+    Choice::ChoiceRef choose() override {
+        if (!choices.empty()) {
+            betray += choices.back() == Choice::D;
+            p = 1000 * betray / (int) choices.size();
+        }
+        // 확률이 같은 경우
+        if (p == 500) return Choice::D;
+        if (generator() >= p) return Choice::C;
+        return Choice::D;
+    }
+};
+
 Reward::RewardRef rewards[2][2] = {
         {Reward::P, Reward::T},
         {Reward::S, Reward::R}
