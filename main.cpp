@@ -575,6 +575,8 @@ public:
     }
 };
 
+
+
 Reward::RewardRef rewards[2][2] = {
         {Reward::P, Reward::T},
         {Reward::S, Reward::R}
