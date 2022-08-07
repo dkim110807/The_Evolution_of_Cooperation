@@ -509,6 +509,7 @@ public:
 class SoftMajor : public Strategy {
 private:
     int betray = 0;
+
 public:
     SoftMajor() = default;
 
@@ -526,6 +527,51 @@ public:
         betray += choices.back() == Choice::D;
         if (choices.size() / 2 < betray) return Choice::D;
         return Choice::C;
+    }
+};
+
+/**
+ * <b> Hard Forgiver </b>
+ *
+ * <hr>
+ * 1. 처음 두번은 협력한다.
+ * <br> 2. 3번째 부터 2턴 이후 배반이 있다면 배반, 연속 두 번 협력하면 다시 협력한다.
+ * <br> 3. 이후 또 배반하면, 3턴 연속 협력이어야 협력한다.
+ * <br> 4. 이후 또 배반하면, 계속 배반한다.
+ * <hr>
+ *
+ * @author dkim110807
+ */
+class HardForgiver : public Strategy {
+private:
+    bool forgive() {
+        int betray = 0;
+        for (auto &i: choices) betray += i == Choice::D;
+        if (betray == 0) return true;
+        if (betray >= 3) return false;
+        for (int i = (int) choices.size() - 1; i >= choices.size() - betray; i--)
+            if (choices[i] == Choice::D)
+                return false;
+        return true;
+    }
+
+public:
+    HardForgiver() = default;
+
+    std::string name() override {
+        return "Hard Forgiver";
+    }
+
+    std::string description() override {
+        return "- 처음 두번은 협력한다. \n"
+               "- 3번째 부터 2턴 이후 배반이 있다면 배반, 연속 두 번 협력하면 다시 협력한다. \n"
+               "- 이후 또 배반하면, 3턴 연속 협력이어야 협력한다. \n"
+               "- 이후 또 배반하면, 계속 배반한다.";
+    }
+
+    Choice::ChoiceRef choose() override {
+        if (choices.size() <= 1 || forgive()) return Choice::C;
+        return Choice::D;
     }
 };
 
@@ -563,5 +609,7 @@ std::pair<int, int> game(Strategy *A, Strategy *B) {
 }
 
 int main() {
+    Strategy *list[] = {new TitForTat(), new Random55(), new Random91(), new Random19()};
+
     game(new Mistrust(), new Tester());
 }
