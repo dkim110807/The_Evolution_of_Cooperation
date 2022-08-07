@@ -1,6 +1,10 @@
 The Evolution of Cooperation
 ============================
 
+### 0. Credit
+* http://www-personal.umich.edu/~axe/research/Axelrod%20and%20Hamilton%20EC%201981.pdf
+* The Evolution of Cooperation - Robert Axelrod
+
 ### 1. Strategy
 * Tit for Tat
    - 처음에는 협력한다.
