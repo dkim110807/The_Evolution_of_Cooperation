@@ -606,7 +606,18 @@ public:
     }
 };
 
+class PerNasty : public Strategy {
+public:
+    PerNasty() = default;
 
+    std::string name() override {
+        return "Per Nasty";
+    }
+
+    std::string description() override {
+
+    }
+};
 
 Reward::RewardRef rewards[2][2] = {
         {Reward::P, Reward::T},
